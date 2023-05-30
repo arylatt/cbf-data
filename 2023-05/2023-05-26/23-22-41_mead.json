@@ -1,0 +1,277 @@
+{
+  "producers": [
+    {
+      "location": "Holy Island, Nthumb",
+      "notes": "Holy Island, Nthumb ",
+      "products": [
+        {
+          "category": "mead",
+          "status_text": "",
+          "notes": "Dry/Sweet balalnce, light mead",
+          "id": "353d920941f6de6b523e9da5367c3b24c9581bc5",
+          "allergens": {},
+          "dispense": "mead polypin",
+          "style": "",
+          "name": "Original",
+          "bar": "",
+          "abv": "14.5"
+        },
+        {
+          "category": "mead",
+          "status_text": "",
+          "notes": "Light mead with a hint of orange",
+          "id": "037c97161a62ba95ebf6b1fed397549c6ac5dbcc",
+          "allergens": {},
+          "dispense": "mead polypin",
+          "style": "",
+          "name": "Pink",
+          "bar": "",
+          "abv": "14.5"
+        }
+      ],
+      "id": "634de0a75896238bfd3f5886f6062f00da3d0b56",
+      "name": "Lindisfarne",
+      "year_founded": ""
+    },
+    {
+      "location": "Devon",
+      "notes": "Devon ",
+      "products": [
+        {
+          "category": "mead",
+          "status_text": "",
+          "notes": "All the spices of christmas mixed with honey for a sumptuous drink\n",
+          "id": "63c25b4c885472b8b93d152b064ae189bd4c29c4",
+          "allergens": {
+            "sulphites": true
+          },
+          "dispense": "bottle",
+          "style": "",
+          "name": "Christmas Mead",
+          "bar": "",
+          "abv": "10.0"
+        },
+        {
+          "category": "mead",
+          "status_text": "",
+          "notes": "Smooth rich caramel tones",
+          "id": "7ce32d7cd72bee0b8f919fce5c60d0445193e5b2",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Moniack Mead",
+          "bar": "",
+          "abv": "14.6"
+        },
+        {
+          "category": "mead",
+          "status_text": "",
+          "notes": "Ginger and honey",
+          "id": "9e28ad3523c0b923c3c78bc6feb63dd6bbd8018a",
+          "allergens": {
+            "sulphites": true
+          },
+          "dispense": "bottle",
+          "style": "",
+          "name": "Tournament Mead",
+          "bar": "",
+          "abv": "11.0"
+        },
+        {
+          "category": "mead",
+          "status_text": "",
+          "notes": "Light traditional mead",
+          "id": "4ce58b198728bb03cc68b2cca3110c31d53227a5",
+          "allergens": {
+            "gluten": true,
+            "sulphites": true
+          },
+          "dispense": "mead polypin",
+          "style": "",
+          "name": "Traditional Mead",
+          "bar": "",
+          "abv": "14.5"
+        }
+      ],
+      "id": "14019988a92023b21c8fbafb2b615c6ce575da38",
+      "name": "Lyme Bay",
+      "year_founded": ""
+    },
+    {
+      "location": "Yorkshire",
+      "notes": "Yorkshire ",
+      "products": [
+        {
+          "category": "mead",
+          "status_text": "",
+          "notes": "Elderflower balanced with honey.",
+          "id": "effcd19f7c474705ebfe2e4b74b4c66fe630f4e3",
+          "allergens": {},
+          "dispense": "mead polypin",
+          "style": "",
+          "name": "Elderflower",
+          "bar": "",
+          "abv": "15.0"
+        },
+        {
+          "category": "mead",
+          "status_text": "",
+          "notes": "Firey, yet smooth leaving a lasting warmth.",
+          "id": "2a8a51e0234d0a11e2418575a65c3af296174e17",
+          "allergens": {},
+          "dispense": "mead polypin",
+          "style": "",
+          "name": "Ginger & Chilli",
+          "bar": "",
+          "abv": "15.0"
+        },
+        {
+          "category": "mead",
+          "status_text": "",
+          "notes": "Lemon and lime, bursting with citrus flavours followed by a hint of smooth honey.",
+          "id": "d9f6eac61e07ab2c191957044622bd78fd2e3560",
+          "allergens": {},
+          "dispense": "mead polypin",
+          "style": "",
+          "name": "Lemon & Lime",
+          "bar": "",
+          "abv": "15.0"
+        }
+      ],
+      "id": "541e1ca1ba795f8e006cdb4392dae898e5678fda",
+      "name": "Nidhoggr",
+      "year_founded": ""
+    },
+    {
+      "location": "Norfolk",
+      "notes": "Norfolk ",
+      "products": [
+        {
+          "category": "mead",
+          "status_text": "",
+          "notes": "Light and floral, a taste of the meadows",
+          "id": "c907ac046b79e8076e8333c776a6597163bd8f4d",
+          "allergens": {},
+          "dispense": "cider tub",
+          "style": "",
+          "name": "Wildflower",
+          "bar": "",
+          "abv": "14.0"
+        },
+        {
+          "category": "mead",
+          "status_text": "",
+          "notes": "Deep, moderately sweet, almost dry mead",
+          "id": "acb869da8cd79d8dc44d92ff509e72f8067dedde",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Woodland",
+          "bar": "",
+          "abv": "14.0"
+        }
+      ],
+      "id": "5b88bcc2c54c2e94c2e91b4f47f09f3031c82c36",
+      "name": "Norfolk Amber Mead",
+      "year_founded": ""
+    },
+    {
+      "location": "",
+      "notes": "",
+      "products": [
+        {
+          "category": "mead",
+          "status_text": "",
+          "notes": "Infused with juniper berries for a pine flavour to balance the sweetness of the mead",
+          "id": "b877e7ba42cc51da7ef255e248516168482c7eba",
+          "allergens": {},
+          "dispense": "mead polypin",
+          "style": "",
+          "name": "Juniper",
+          "bar": "",
+          "abv": "5.5"
+        },
+        {
+          "category": "mead",
+          "status_text": "",
+          "notes": "Semi-sweet mead, floral and fruity to start with gentle honey notes coming in after.",
+          "id": "c0d08a4ecfc1679665a9f4bd180de38eea4d6260",
+          "allergens": {
+            "gluten": true,
+            "sulphites": true
+          },
+          "dispense": "mead polypin",
+          "style": "",
+          "name": "Light Mead",
+          "bar": "",
+          "abv": "5.5"
+        },
+        {
+          "category": "mead",
+          "status_text": "",
+          "notes": "Made from Essex borage honey: botanical and fruity notes with a rich sweetness.",
+          "id": "326ca57344b96db1c7ee3dbafb1396cdc0e27833",
+          "allergens": {},
+          "dispense": "mead polypin",
+          "style": "",
+          "name": "Sweet Borage",
+          "bar": "",
+          "abv": "10.5"
+        }
+      ],
+      "id": "f233e57f7a6fcd4dde48ab163bcb8f1d4e960300",
+      "name": "Shire Meadery",
+      "year_founded": ""
+    },
+    {
+      "location": "Blairgowrie, Perths",
+      "notes": "Blairgowrie, Perths ",
+      "products": [
+        {
+          "category": "mead",
+          "status_text": "",
+          "notes": "Heady floral notes with hints of oats and malt.",
+          "id": "b4fbf31a88f38438e446eb6dcbdf8cea74619fc4",
+          "allergens": {
+            "sulphites": true
+          },
+          "dispense": "mead polypin",
+          "style": "",
+          "name": "Midsummer Mead",
+          "bar": "",
+          "abv": "17.0"
+        },
+        {
+          "category": "mead",
+          "status_text": "",
+          "notes": "Oranges, fresh root ginger and frankincense. An authentic medieval taste of winter.",
+          "id": "ce879e0b4eac500210c91a012635b150af154858",
+          "allergens": {},
+          "dispense": "mead polypin",
+          "style": "",
+          "name": "Midwinter Mead",
+          "bar": "",
+          "abv": "17.0"
+        },
+        {
+          "category": "mead",
+          "status_text": "",
+          "notes": "Gentle and pleasing mint flavour\n",
+          "id": "b0b1dc04b85855cb11f2994421d032d117a21e75",
+          "allergens": {
+            "sulphites": true
+          },
+          "dispense": "mead polypin",
+          "style": "",
+          "name": "Mint Mead",
+          "bar": "",
+          "abv": "17.0"
+        }
+      ],
+      "id": "b5883dc5a6e6b2ff4594aa6ca86cf5739a5ab5e2",
+      "name": "The Rookery",
+      "year_founded": ""
+    }
+  ],
+  "timestamp": "Fri May 26 2023 23:22:41 BST"
+}

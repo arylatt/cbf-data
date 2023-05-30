@@ -1,0 +1,50 @@
+{
+  "producers": [
+    {
+      "location": "Cambridgeshire",
+      "notes": "Cambridgeshire ",
+      "products": [
+        {
+          "category": "apple juice",
+          "status_text": "",
+          "notes": "",
+          "id": "43580f759e36b137435a804ed2007ba269ca9195",
+          "allergens": {},
+          "dispense": "cider tub",
+          "style": "",
+          "name": "Bramley APPLE JUICE",
+          "bar": "",
+          "abv": "0.0"
+        },
+        {
+          "category": "apple juice",
+          "status_text": "",
+          "notes": "",
+          "id": "fe12532c4a04577200921007045c4fedde6017f7",
+          "allergens": {},
+          "dispense": "cider tub",
+          "style": "",
+          "name": "Cox APPLE JUICE",
+          "bar": "",
+          "abv": "0.0"
+        },
+        {
+          "category": "apple juice",
+          "status_text": "",
+          "notes": "",
+          "id": "6eb140bafa7b836fe8c2399211be75ad61bea5c5",
+          "allergens": {},
+          "dispense": "cider tub",
+          "style": "",
+          "name": "Red Pippin APPLE JUICE",
+          "bar": "",
+          "abv": ""
+        }
+      ],
+      "id": "75988f5ac0575a8d3636291a136cf92664152ed3",
+      "name": "Cam Valley Orchards",
+      "year_founded": ""
+    }
+  ],
+  "timestamp": "Fri May 26 2023 23:22:35 BST"
+}

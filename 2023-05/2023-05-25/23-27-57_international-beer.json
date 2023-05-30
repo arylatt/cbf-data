@@ -1,0 +1,2375 @@
+{
+  "producers": [
+    {
+      "location": "Belgium",
+      "notes": "Belgium ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "7b93d3e413714c31f58121e7d0078b3b6f335e58",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Frambozenlambik",
+          "bar": "",
+          "abv": "6.8"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "dc1b139b21b9de331b04f50fc2ca2e15993242c8",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Gold Blend",
+          "bar": "",
+          "abv": "7.2"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "99e4871372ae849c3eff0f43244f1ed5bc1dbd64",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Honig",
+          "bar": "",
+          "abv": "6.4"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "1a8d4dd4b2a502eea2acf6f14992789667bdf9a1",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Oude Geuze Cuvée Armand & Gaston Vintage 2019",
+          "bar": "",
+          "abv": "7.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "20a642cc8b038a3a48067a936cad140fade824c6",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Oude Kriek",
+          "bar": "",
+          "abv": "6.0"
+        }
+      ],
+      "id": "e77a5665071af25b3d311ba5100b492cb3844dcc",
+      "name": "3 Fonteinen",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "88b8633507fe6803f7166cdcd49edc26c222c698",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Dunkel",
+          "bar": "",
+          "abv": "5.3"
+        }
+      ],
+      "id": "abfee686ac890cd929a65776485e327276b36371",
+      "name": "Allgäuer",
+      "year_founded": ""
+    },
+    {
+      "location": "Belgium",
+      "notes": "Belgium ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "2215daf653c997d01a0d404ffc477abe4322cb9d",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Kriek Minth",
+          "bar": "",
+          "abv": "4.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "1c0b7b9c19574fe5cb18cfd2ae18200c53906e2b",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Land Van Mortagne",
+          "bar": "",
+          "abv": "12.8"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "cc7b3118eb58456dd014f9c1b32a4ab1fe66f8c8",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Omega",
+          "bar": "",
+          "abv": "6.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "54cac065fd278b810e602d2e58f7c7da2a0cf41b",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Phi Rabarbar",
+          "bar": "",
+          "abv": "8.0"
+        }
+      ],
+      "id": "efa260adfcac648aa5df57fc33520b5e0a3fb0c3",
+      "name": "Alvinne",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "e19853a612aad6e05ceabd48d05117a64058fa79",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Andechser Hell",
+          "bar": "",
+          "abv": "4.8"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "2d3730e6849fab2a79e5421d3bf41cc86cf60f4a",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Dopplebock Dunkel",
+          "bar": "",
+          "abv": "7.1"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "9491531157806078a1ce2da9ab6ff7e33761d86f",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Weisse",
+          "bar": "",
+          "abv": "5.5"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "9491531157806078a1ce2da9ab6ff7e33761d86f",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Weisse",
+          "bar": "",
+          "abv": "5.5"
+        }
+      ],
+      "id": "1b0a69d74c5ab68f9e3505f103f40618a51e5987",
+      "name": "Andechs",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Helles",
+          "id": "8c93ce1d07259934298ea47da504510529a423a4",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Edelstoff",
+          "bar": "",
+          "abv": "5.6"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "a7d3d768fe1c49c394cdf0ea8e9b0a280240ace5",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Hell",
+          "bar": "",
+          "abv": "5.2"
+        }
+      ],
+      "id": "07a85bd180d31c968e6dc5989ac4de434918dd41",
+      "name": "Augustiner",
+      "year_founded": ""
+    },
+    {
+      "location": "Romania",
+      "notes": "Romania ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "31506349dc1205e2af91cc7e882c640cdeb05a01",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Cut the Chord",
+          "bar": "",
+          "abv": "7.9"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "d6142cbf81ec56ed10999a7010c83a3df7006f1f",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Hazelnut Crunch Bar",
+          "bar": "",
+          "abv": "11.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "2b957ea914f0559a5e0fd79ce1694898733e927a",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Inert Collective",
+          "bar": "",
+          "abv": "6.8"
+        }
+      ],
+      "id": "cd45b5b7049c852536ee19af1309a5aac70c61b3",
+      "name": "Bereta",
+      "year_founded": ""
+    },
+    {
+      "location": "Belgium",
+      "notes": "Belgium ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "f61ddea6fee12c6fb88bc5e55909402d67ff397d",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Saison Epautre",
+          "bar": "",
+          "abv": "6.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "ac79d7b219b8b73f11bb29d1a52df474629f682a",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Vermontoise",
+          "bar": "",
+          "abv": "6.0"
+        }
+      ],
+      "id": "5137305f9eb91061561d052d1da02795172903e4",
+      "name": "Blaugies",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "00e5cd06bd0ff625875d73bc59733fc128b9d598",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Oak Aged Keller",
+          "bar": "",
+          "abv": "4.7"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "39557492e3cede8e8ded31cc3720e5030e83e233",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Special Rauchbier",
+          "bar": "",
+          "abv": "5.5"
+        }
+      ],
+      "id": "c4b2c5764d4e8f0e15195a6e5f43d329c6756fcd",
+      "name": "Blech",
+      "year_founded": ""
+    },
+    {
+      "location": "Finland",
+      "notes": "Finland ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "e3814f50894740ec21591ec580a4cda1df6dab3d",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Head 2 Head R1:NEIPA",
+          "bar": "",
+          "abv": "6.0"
+        }
+      ],
+      "id": "e6af5948e25f549aa9a17ef844dbcbb85b4c77ec",
+      "name": "Coolhead x Ārpus",
+      "year_founded": ""
+    },
+    {
+      "location": "Belgium",
+      "notes": "Belgium ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "1b771e69c423423da8a263e5b6cafcbba755dd16",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Jan de Licht",
+          "bar": "",
+          "abv": "7.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "dad51942d9e10b71dcca872da54aac717fa1cef2",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Saison d'Erpe-Mere",
+          "bar": "",
+          "abv": "6.5"
+        }
+      ],
+      "id": "07edd2c6f5c1518a21de793785ebfbc34ea4f594",
+      "name": "De Glazen Toren",
+      "year_founded": ""
+    },
+    {
+      "location": "Netherlands",
+      "notes": "Netherlands ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "b18ba48ea7eac7558eb4a394f1db29208f896576",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Lactic Fantastic Plum",
+          "bar": "",
+          "abv": "7.8"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "bd3cae4a466cb7293c8be495d1f1979af95a7e21",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Mudskipper v14",
+          "bar": "",
+          "abv": "5.5"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "e4549cb825265d8ee7fc3e80f71dd0d1b1585127",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Shoes of the Fisherman's Wife",
+          "bar": "",
+          "abv": "4.5"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "db8abe5fe6056c509d1528fcb1f81d34a3a078b5",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Whale Shark v4",
+          "bar": "",
+          "abv": "8.0"
+        }
+      ],
+      "id": "564fd4f695747a12f20fb2f28e3c8198ad3ba8de",
+      "name": "De Kromme Haring",
+      "year_founded": ""
+    },
+    {
+      "location": "Belgium",
+      "notes": "Belgium ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "27f1a7fc2284e71ed95272f5f957f76e6838d34e",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Guldenberg Triple",
+          "bar": "",
+          "abv": "8.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Well hopped, zesty and spicy",
+          "id": "eb782cb36fc6e7eecc8f689731b2ba7bb73a7710",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Saison de Dottignies",
+          "bar": "",
+          "abv": "5.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Bitter, hoppy Belgian blond ale",
+          "id": "86fc81aa7202d04dbe9483819cadc93de50d8051",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "XX Bitter",
+          "bar": "",
+          "abv": "6.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Bitter, hoppy Belgian blond ale",
+          "id": "86fc81aa7202d04dbe9483819cadc93de50d8051",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "XX Bitter",
+          "bar": "",
+          "abv": "6.0"
+        }
+      ],
+      "id": "620807a1bbd690fc48597698e7f449e961505536",
+      "name": "De Ranke",
+      "year_founded": ""
+    },
+    {
+      "location": "Belgium",
+      "notes": "Belgium ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "2c8b9832646c407ca780d8c4df2dc567db9f9037",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Black Albert",
+          "bar": "",
+          "abv": "13.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "8418d04a9374c1843ca622458a68995e129ab4fb",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Clash of Titans Gran Reserva",
+          "bar": "",
+          "abv": "12.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "80bffe4938395b9b0a048b3675ae79214018e998",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Cuveé Delphine",
+          "bar": "",
+          "abv": "13.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "05cb35523155c78c7256a79fb0fe0c0e106889be",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Pannepot",
+          "bar": "",
+          "abv": "10.0"
+        }
+      ],
+      "id": "a7ddd391b75ebf78821c49f97dec245d2f39d816",
+      "name": "De Struise",
+      "year_founded": ""
+    },
+    {
+      "location": "Sweden",
+      "notes": "Sweden ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "1b619bf2b9b0b69adf5b2b622fccdf525d1b47d0",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Living Machines",
+          "bar": "",
+          "abv": "5.5"
+        }
+      ],
+      "id": "a8edf27436789a61107ab64a9138ba23d0312912",
+      "name": "Elmeleven",
+      "year_founded": ""
+    },
+    {
+      "location": "Sweden",
+      "notes": "Sweden ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "693bad7eb3bc3638c10c912eb2bb401841863be4",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Aphotic",
+          "bar": "",
+          "abv": "6.5"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "89b353bbc6f7a5ca6b66432b7837c2e0511a0c31",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Fee-ka",
+          "bar": "",
+          "abv": "6.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "51ee3ba020ec64f120d2fbfccded44b8d59c6f89",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Guava Bar",
+          "bar": "",
+          "abv": "3.5"
+        }
+      ],
+      "id": "47077c7cdd6c7822a07096245e1a47034c683618",
+      "name": "Fermentarana",
+      "year_founded": ""
+    },
+    {
+      "location": "USA",
+      "notes": "USA ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "14a2561285a4e42dabd41b385a4198ca6d4d2efe",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Dandy Pale",
+          "bar": "",
+          "abv": "5.2"
+        }
+      ],
+      "id": "d2a8a1bde5eba1942d457a555cf2c0dc034aacd8",
+      "name": "Fonta Flora",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "b6ff0d199a11ac1aef556e09f525485def849980",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Festbier",
+          "bar": "",
+          "abv": "6.2"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "76327aea150629712a2e721275abb6323cc05df8",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Field of Dreams",
+          "bar": "",
+          "abv": "6.2"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "5a8c21f3d17c68dcb3afd0ae0bef61e53e21030f",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Helles",
+          "bar": "",
+          "abv": "4.8"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "5a8c21f3d17c68dcb3afd0ae0bef61e53e21030f",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Helles",
+          "bar": "",
+          "abv": "4.8"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "130dbef395a8b06562bb0e0e380075ac73491b39",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Mind Control",
+          "bar": "",
+          "abv": "6.5"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "40998ac2de05621a271e73ebac2f0417a0811a65",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Pils",
+          "bar": "",
+          "abv": "4.8"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "40998ac2de05621a271e73ebac2f0417a0811a65",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Pils",
+          "bar": "",
+          "abv": "4.8"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "d7eb983f1aef1a8e084cf476321e428ce1bee2d8",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Record Store",
+          "bar": "",
+          "abv": "7.2"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "84f6cc8b7c047c0db454167ece2b8aa75e1a5a21",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Shakerato",
+          "bar": "",
+          "abv": "10.6"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "3225d0ea962d4dccd42bce97bda5894524c7d873",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Super Crema",
+          "bar": "",
+          "abv": "8.8"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "786dd6cd1fa2a82452b9d383a7939aef548bf265",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Trust Your Elephant",
+          "bar": "",
+          "abv": "10.6"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "7bbd03031634d2d63cf5125e7ec55acea28e8d0f",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Yuzu Lager",
+          "bar": "",
+          "abv": "4.9"
+        }
+      ],
+      "id": "67468cb18559db0000a450d7dafd7c4f18e82e74",
+      "name": "FrauGruber Brewing",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "b128be479dd365bc759508fb6bbd862260461f79",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "24 7",
+          "bar": "",
+          "abv": "5.2"
+        }
+      ],
+      "id": "36b0ec252468c979762fac40fca821531a7c8e44",
+      "name": "Fuerst Gruber",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "21e34dd1da91bbeff116047312e02c8419a2e2f4",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Czech Pils",
+          "bar": "",
+          "abv": "5.5"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "21e34dd1da91bbeff116047312e02c8419a2e2f4",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Czech Pils",
+          "bar": "",
+          "abv": "5.5"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "17962cbcbbd3713afe0fed5ad3d02d735bbe9a56",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Karate Gear",
+          "bar": "",
+          "abv": "8.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "b81bd003da4827aa8afe573051b906ab1aa1204a",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Landbier",
+          "bar": "",
+          "abv": "5.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "b81bd003da4827aa8afe573051b906ab1aa1204a",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Landbier",
+          "bar": "",
+          "abv": "5.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "15ede3afc63c9b777b1143a1a1579146de7184ee",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Pils",
+          "bar": "",
+          "abv": "5.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "7f98df2406346ec18b41dd5cac4b2ec3f277049e",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Provocator",
+          "bar": "",
+          "abv": "8.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "9e56356b97d899bb524eff6b0b30f360b423811e",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Swarzbier",
+          "bar": "",
+          "abv": "5.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "9e56356b97d899bb524eff6b0b30f360b423811e",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Swarzbier",
+          "bar": "",
+          "abv": "5.0"
+        }
+      ],
+      "id": "5f53beb5579ddb5c9fe382cc21e9c7c9c2e0b47d",
+      "name": "Fuerst Wiacek",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "f4c9039a9613410747a04d9078f36e3ed8e6ba29",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Sonnets",
+          "bar": "",
+          "abv": "6.8"
+        }
+      ],
+      "id": "5c46489bec06fb161c255fbb3f09e836b23b08dc",
+      "name": "Fuerst Wiacek x Beak",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "df130d0b7ae1bdfc212485f26b4def45ce959d7f",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Dunkel",
+          "bar": "",
+          "abv": "5.0"
+        }
+      ],
+      "id": "c5fe33451686d44778a5a6129413c2ab2e66bb2a",
+      "name": "Fuerst Wiacek x Cloudwater",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Kölsch",
+          "id": "68900e0057e7894505001dd3c1fd7a62df942610",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Gaffel Kölsch",
+          "bar": "",
+          "abv": "4.8"
+        }
+      ],
+      "id": "3cf2e7b1319b7b0fb8c74ff82339dcc07fb860c5",
+      "name": "Gaffel",
+      "year_founded": ""
+    },
+    {
+      "location": "Denmark",
+      "notes": "Denmark ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "b0c4d07a38354d89cf662021191d41f6fdf99387",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Actitude",
+          "bar": "",
+          "abv": "4.5"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "42aac3e7125c3ded95c8aa10da1f71ef77bb334b",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Cursory",
+          "bar": "",
+          "abv": "5.5"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "4cc76371336024c626e5aec7c5ab7258a8f46bde",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Heirloom",
+          "bar": "",
+          "abv": "4.3"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "4cc76371336024c626e5aec7c5ab7258a8f46bde",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Heirloom",
+          "bar": "",
+          "abv": "4.3"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "ac2603162af318ba7e6819a96e961ef7eafe29ed",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "No Hang Ups",
+          "bar": "",
+          "abv": "6.5"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "0200c2c5ec1b75408d6a55444978071c2a4174d4",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Sub Orbital",
+          "bar": "",
+          "abv": "4.2"
+        }
+      ],
+      "id": "dc6bd6b7352e8752d46e43d5b9b989f3c7f7493d",
+      "name": "Gamma",
+      "year_founded": ""
+    },
+    {
+      "location": "USA",
+      "notes": "USA ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "972206c779f0ae061b82f09718a6189a7ab8411d",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "The Curious Mix Methods 4th Edition",
+          "bar": "",
+          "abv": "6.7"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "a4260271d3642eed634a2204375f256d79149b89",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "The Prime Barrel Age 4th Edition",
+          "bar": "",
+          "abv": "7.5"
+        }
+      ],
+      "id": "1534f3d84cd1311630648981189b44fa9cf80785",
+      "name": "Garden Path",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "591ee4bb6c7bce3bbd56c22a4ff4de18197ea7a1",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Weisse",
+          "bar": "",
+          "abv": "5.5"
+        }
+      ],
+      "id": "456f2361d677372141da13ecbc8f27b83f5b6a15",
+      "name": "Hacker-Pschorr",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Dark wheat beer, fruity but not over-sweet",
+          "id": "ab8c7254e5945103b819c854b24b94c742f0bb5b",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Dunkles Weissbier",
+          "bar": "",
+          "abv": "5.3"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Silky wheat beer, banana and hint of cinnamon",
+          "id": "df8994ee845b3e820854c989f96126eafa8736b5",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Weissbier",
+          "bar": "",
+          "abv": "5.3"
+        }
+      ],
+      "id": "9a6aa8b8b6919d3b97d0f40c9eda85f5523c7dd2",
+      "name": "Jacob",
+      "year_founded": ""
+    },
+    {
+      "location": "USA",
+      "notes": "USA ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "8b829d3173973fc25de8791fe7198a43a1e318ac",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Spon Viridium",
+          "bar": "",
+          "abv": "4.9"
+        }
+      ],
+      "id": "bcf06593eb08b05b503a29a24a12e3acfc7540c8",
+      "name": "Jester King",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "c24b97ba68161c7bfe3409e2ab9d7e31fca691a0",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Dunkel",
+          "bar": "",
+          "abv": "4.7"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Unfiltered Lager",
+          "id": "caf982674b8566ad1ea2a94842fb11b05d1f94be",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Kellerbier",
+          "bar": "",
+          "abv": "4.7"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "236df1c52d4fb5fa97788179906d2f1e103c5a31",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Pils",
+          "bar": "",
+          "abv": "4.7"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "5c6f67270d2727b35057c48b95b60703e1d3b023",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Weisse",
+          "bar": "",
+          "abv": "4.7"
+        }
+      ],
+      "id": "18c85e8f2c6d60773372ef600c979ff3874a91db",
+      "name": "Kaiserdom",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "5cc417521b97c06ab93c211882d9e1176e2a0399",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Weisse",
+          "bar": "",
+          "abv": "5.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "5cc417521b97c06ab93c211882d9e1176e2a0399",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Weisse",
+          "bar": "",
+          "abv": "5.0"
+        }
+      ],
+      "id": "93e097e319c2db13edf06f45c4dff4f741394c0d",
+      "name": "Karg",
+      "year_founded": ""
+    },
+    {
+      "location": "The Netherlands",
+      "notes": "The Netherlands ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "What it says. Lots of caramel and chocolate. You know you want some...",
+          "id": "a2ed9cbd8f46c6afc4632b7b752fdcbed42104bf",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Caramel Fudge Stout",
+          "bar": "",
+          "abv": "11.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "1445b81a80b773113395f197735bf7da6c095920",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Caramel Fudge Stout Moscatel",
+          "bar": "",
+          "abv": "11.6"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "0c3c53e650a0a7310a46bda3c08614da73df6e73",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Keyboard Warrior",
+          "bar": "",
+          "abv": "7.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "d81913734a1d5a018b1237144ee130bf9bbfb743",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Mosaic Hop Explosion",
+          "bar": "",
+          "abv": "5.5"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "e448529f0ad03279f5dc6bcd195fbb8e132de835",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Orange Trempée",
+          "bar": "",
+          "abv": "7.6"
+        }
+      ],
+      "id": "f881b44b0c8b0ace5bc97cf6066fda86c2af6e18",
+      "name": "Kees",
+      "year_founded": ""
+    },
+    {
+      "location": "Belgium",
+      "notes": "Belgium ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "3f44b63e54160bc4e8dbe6407acea1495b4d20c1",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Herren Pils",
+          "bar": "",
+          "abv": "4.9"
+        }
+      ],
+      "id": "8b1e80abca15b33ca7bf105e31725bfaa007c5f3",
+      "name": "Keesman",
+      "year_founded": ""
+    },
+    {
+      "location": "Belgium",
+      "notes": "Belgium ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "7f07483d084ff6b27c515ebeea7bf187041d4c91",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Adelardus Triple",
+          "bar": "",
+          "abv": "8.5"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "0bc8cbe4f7a6bca8c3958bd9e9f8967c3a5df0c0",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Blonde",
+          "bar": "",
+          "abv": "5.5"
+        }
+      ],
+      "id": "ee16ee0fa7f21a4101793582e1cf4b24fef9f948",
+      "name": "Kerkom",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "e29803237eff14aaa1ff9fa49a9ab802a170725a",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Schwärzla Bruin",
+          "bar": "",
+          "abv": "5.0"
+        }
+      ],
+      "id": "3db2991a3bd1f2ca292a463744f4136d61b1faa3",
+      "name": "Klösterbräu Bamberg",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "8afa356b8c614ebb4181555e2620ca2ab29b341a",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Breitenlesauer Hell",
+          "bar": "",
+          "abv": "4.8"
+        }
+      ],
+      "id": "810bd2adca8109e71a0fa4995bb7a965fd8d905a",
+      "name": "Krug-Bräu",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "fb1f1c3055bdc53aad7807424dd9d0473a626642",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Weisse",
+          "bar": "",
+          "abv": "5.5"
+        }
+      ],
+      "id": "326453330f2a97f38c09b04bfefac37bf49606b3",
+      "name": "König",
+      "year_founded": ""
+    },
+    {
+      "location": "Spain",
+      "notes": "Spain ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "74d14da0072c7c1f44e1c5d9398c09350045f23d",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Dazed and Confused",
+          "bar": "",
+          "abv": "6.5"
+        }
+      ],
+      "id": "06166b3e8f5fb777b195dba42555e2aac7c435a8",
+      "name": "Little Rain",
+      "year_founded": ""
+    },
+    {
+      "location": "Poland",
+      "notes": "Poland ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "08a0c9ea5f040491b0b2a44e04668dc661c8172d",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Perfect For Everyday",
+          "bar": "",
+          "abv": "5.5"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "eb182a2c57a204816502aae0e860b30aac90f5ef",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Topping Revolution",
+          "bar": "",
+          "abv": "5.5"
+        }
+      ],
+      "id": "0a764d277b8c297ef02791161cc279b4669e4028",
+      "name": "Maltgarden",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "620d8a879cea785eb4036f3fa09572b4bb9d1b77",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Pils",
+          "bar": "",
+          "abv": "4.9"
+        }
+      ],
+      "id": "4585c0b1f8c04d96f67a9bb9cc1d4956cac28a60",
+      "name": "Mars Bräu",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "516bcec334c2c379d95868886fd93a7751852e48",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Weisse",
+          "bar": "",
+          "abv": "4.2"
+        }
+      ],
+      "id": "1fa79bd9f47d73a47762a6c13c7e147ca8223855",
+      "name": "Meckatzer Löwenbräu",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "6b3f3ea0a945d40a0226403eb601173d0c2eb4f6",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Pils",
+          "bar": "",
+          "abv": "4.9"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "9cdf9e637dcff3ba9792eef8044009e51da50d79",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Zoigl Keller",
+          "bar": "",
+          "abv": "5.4"
+        }
+      ],
+      "id": "3e11fda4b1c58ea4bc6b608c03913c5b3d7fbde7",
+      "name": "Moosbacher",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "ad49ba107a7ca758503ae100428eabdd150867e9",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Ladara Bourbon Bock",
+          "bar": "",
+          "abv": "6.8"
+        }
+      ],
+      "id": "4a3669d650b1f3aa26bd356022e1546980151de3",
+      "name": "Ott",
+      "year_founded": ""
+    },
+    {
+      "location": "Poland",
+      "notes": "Poland ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "b4b7349152b6ef9c6b782c48d89bd441b4705425",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Curiosity",
+          "bar": "",
+          "abv": "4.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "b4b7349152b6ef9c6b782c48d89bd441b4705425",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Curiosity",
+          "bar": "",
+          "abv": "4.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "d6d8484665cf4927147b634dcbdc026945300248",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Mystery",
+          "bar": "",
+          "abv": "5.5"
+        }
+      ],
+      "id": "6822cc28f97f30d8b3b85b3cf3a20719cbd597ec",
+      "name": "Pinta",
+      "year_founded": ""
+    },
+    {
+      "location": "Estonia",
+      "notes": "Estonia ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "6f0ff4f8a7bcfe6785a57b29df7daddecb5ab510",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Rahu",
+          "bar": "",
+          "abv": "5.5"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "cbc16b4b67c571f91561c7fed872055a86137c6f",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Trinity in Black BA",
+          "bar": "",
+          "abv": "13.5"
+        }
+      ],
+      "id": "8cd64781c2534d80953532be0b0f6a02bc7ca9aa",
+      "name": "Pühaste",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Very clean, dry, easy drinking beer",
+          "id": "2eee5f04b3a9f4ae8e5232f6fcd58d93238c3ece",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Kölsch",
+          "bar": "",
+          "abv": "4.8"
+        }
+      ],
+      "id": "edd6ebda641b723cc1bc537c49099c1d5a458138",
+      "name": "Reissdorf",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "e23215126473ec373baea4fe93bd5e7279593b6c",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Maibock",
+          "bar": "",
+          "abv": "6.8"
+        }
+      ],
+      "id": "804b1a3fb40cdad2188c037e95ef1a2415495221",
+      "name": "Rittmayer",
+      "year_founded": ""
+    },
+    {
+      "location": "Finland",
+      "notes": "Finland ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "96da6367bb7084cc634fdad09bef68e90e8e7101",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Purple Blood",
+          "bar": "",
+          "abv": "11.0"
+        }
+      ],
+      "id": "bf73283b0465ac6255fba89e26ba27067a7e82ff",
+      "name": "Salama",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "0e55aea528d237e2e1122eb2ce6aee9f0bcdd770",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Marzen",
+          "bar": "",
+          "abv": "5.1"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "4adb6666efdd2c0ad543265cd8af4f26c4d7f1e8",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Weizen Rauch",
+          "bar": "",
+          "abv": "5.2"
+        }
+      ],
+      "id": "6185b6dc968a9507570a4bcf063dd40be8d62989",
+      "name": "Schlenkerla",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "3aba31741e3dfdfaf677936850d9382dc021adc4",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Aventinus",
+          "bar": "",
+          "abv": "8.2"
+        }
+      ],
+      "id": "baf253b20f891347a7f8122930309b27db1e3835",
+      "name": "Schneider",
+      "year_founded": ""
+    },
+    {
+      "location": "Estonia",
+      "notes": "Estonia ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "ccbb2d27469cda86831ec1079d961dd7c4aad34d",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Dark Humour",
+          "bar": "",
+          "abv": "10.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "ccbb2d27469cda86831ec1079d961dd7c4aad34d",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Dark Humour",
+          "bar": "",
+          "abv": "10.0"
+        }
+      ],
+      "id": "c2b919de5b0233cfb72ddac091441955334356d9",
+      "name": "Sori",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "6939b4ae6707698e7207ca8604bf6e468af4841f",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Hell",
+          "bar": "",
+          "abv": "5.2"
+        }
+      ],
+      "id": "f83a383c0fa81f295d057f8f5ed0ba4610947817",
+      "name": "Spaten",
+      "year_founded": ""
+    },
+    {
+      "location": "USA",
+      "notes": "USA ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "32612fe148b0f70345b80ebf23734207b7065f55",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Hopeful Monster",
+          "bar": "",
+          "abv": "7.5"
+        }
+      ],
+      "id": "8eceef4ed8056e15bada60715b2cba3b2bbf724c",
+      "name": "Speciation",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "f07e6d905a63b0e417cf1313691aedae53265d0e",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Antonator",
+          "bar": "",
+          "abv": "7.0"
+        }
+      ],
+      "id": "2c9a62c3748f484690d547c0d707aededf04fbd2",
+      "name": "Spezial",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "da4671b16f9b5858ace82916f7c521606f58811b",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Pils",
+          "bar": "",
+          "abv": ""
+        }
+      ],
+      "id": "6cee08486d23bd9fef73560b5e8cc5aed1777fe2",
+      "name": "St. GeorgenBräu",
+      "year_founded": ""
+    },
+    {
+      "location": "Sweden",
+      "notes": "Sweden ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "07c68f4ffac9eb4a3e0ba5bf5e5aa249a478bd44",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Rain Dogs",
+          "bar": "",
+          "abv": "7.2"
+        }
+      ],
+      "id": "e72a32b81af08da32dc6250f14ff025ff99ee615",
+      "name": "Stigbergets x Little Rain",
+      "year_founded": ""
+    },
+    {
+      "location": "Poland",
+      "notes": "Poland ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "4c991bf56a02ea02f708b0a73147b76789be1ee7",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Garage",
+          "bar": "",
+          "abv": "6.7"
+        }
+      ],
+      "id": "62928c5d98429dcdd38d5f9ef2227c74fadf11e7",
+      "name": "Stu Mostów",
+      "year_founded": ""
+    },
+    {
+      "location": "Poland",
+      "notes": "Poland ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "4b61acf7de65bee74d0c59ffbf4bd81f2f3986f4",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Double Decotion Pilsner",
+          "bar": "",
+          "abv": "4.9"
+        }
+      ],
+      "id": "d91afe852abb1bd6931c4e534b568e24eb7ff9a9",
+      "name": "Stu Mostów x Donzoko",
+      "year_founded": ""
+    },
+    {
+      "location": "Poland",
+      "notes": "Poland ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "aaf6d8a4b7ab50a913f4430cf861d3a9d2d429f3",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Imperial Brown",
+          "bar": "",
+          "abv": "11.5"
+        }
+      ],
+      "id": "7254c5c586965242421b63b36a7de500af435d18",
+      "name": "Stu Mostów x Pühaste",
+      "year_founded": ""
+    },
+    {
+      "location": "Poland",
+      "notes": "Poland ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "a52f57c974efd360ece479041ddb779a60e58e6a",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Art + 59",
+          "bar": "",
+          "abv": "6.0"
+        }
+      ],
+      "id": "e5edc32eff2b7ede6f73bacba69cbf532b9e26df",
+      "name": "Stu Mostów x Vault City",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "1d91760a0e8df4fac2c775af6f557b255a51767f",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "1806 Max I Joseph",
+          "bar": "",
+          "abv": "5.2"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "3d8a213a60ffb4da53a35db326639f59de089771",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Hell",
+          "bar": "",
+          "abv": "4.8"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "6787f18d3d7abbe1f3e321b92358efbeb9e7d679",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Pilsner",
+          "bar": "",
+          "abv": "5.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "bc212ae92c1c3611d162517282edf7a07f389883",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Quirinus",
+          "bar": "",
+          "abv": "7.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "f1c6cfb5c5a959aee655e4f9250ca8303668074a",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Spezial",
+          "bar": "",
+          "abv": "5.6"
+        }
+      ],
+      "id": "7ee08d3afb3a2ef0b04a9ebd0698bb2fffddc587",
+      "name": "Tegernsee",
+      "year_founded": ""
+    },
+    {
+      "location": "Denmark",
+      "notes": "Denmark ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "62d6035909920012e35594efcd001525dc58be78",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Biramisu BA",
+          "bar": "",
+          "abv": "11.7"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "7b731598a0fd3de9147615ab132059e49dcb3218",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Black Baal 2.0",
+          "bar": "",
+          "abv": "12.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "fea7ccd7438d20cf86c9184fc858cb90f6ba3eb8",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Blizzard in a Beer Mug",
+          "bar": "",
+          "abv": "6.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "bc69e3eac69da5f1283fb0b87337b791fbe7d8d3",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Movie Night BA",
+          "bar": "",
+          "abv": "10.6"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "f4269a5d32ff4a4be17eead3ecfd20b3cfd8a390",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Slooplogel",
+          "bar": "",
+          "abv": "10.0"
+        }
+      ],
+      "id": "431f6b7d5b29f0d72c8e0add95ac64e7aa6b01d3",
+      "name": "To Øl",
+      "year_founded": ""
+    },
+    {
+      "location": "Canada",
+      "notes": "Canada ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "b7f78c44c0a49623f81133b73b7e29232ccdad5e",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "A Cordial Invitation",
+          "bar": "",
+          "abv": "6.9"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "3d7f0c7ed4721c2bdb71664a4f9798809a822f9b",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Orange Spheres on Blankets of While",
+          "bar": "",
+          "abv": "7.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "fe4ab7b33abfbb1d5e1de376537fb164f3635f89",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Separated to a Degree",
+          "bar": "",
+          "abv": "7.1"
+        }
+      ],
+      "id": "6676319c523479160a1952182ce1f8ce29b48b65",
+      "name": "Trial & Ale Brewing Company",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "cfdd63d48657d5900824e86efc2a86cf5bedbdef",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Aecht Keller",
+          "bar": "",
+          "abv": "5.3"
+        }
+      ],
+      "id": "23b180c0fc6e61f9364b6208e7018721b5ae113d",
+      "name": "Tucher",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "55e1654381d921e4287226dd310ed6ac25c8f08d",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Weisse Bock",
+          "bar": "",
+          "abv": "6.7"
+        }
+      ],
+      "id": "67469575771df48906920b2a850ccc7fd96ddd32",
+      "name": "Unertl",
+      "year_founded": ""
+    },
+    {
+      "location": "Belgium",
+      "notes": "Belgium ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "cef4816eee9bdbe2fafc4ab414f1806b427f193b",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Rebel Local",
+          "bar": "",
+          "abv": "8.0"
+        }
+      ],
+      "id": "27858a0672afdadfff64d26877b49f4f5a9d2471",
+      "name": "Verzet",
+      "year_founded": ""
+    },
+    {
+      "location": "Canada",
+      "notes": "Canada ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "bd6cc9ea1ea48fcba95f304b23e644fc706a8594",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Honest!",
+          "bar": "",
+          "abv": "5.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "5a3ab81a55b0f6612f7067840f77660081316587",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Now Boarding",
+          "bar": "",
+          "abv": "8.2"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "81ff9c6e6fa1dcedac77f1519cc36d22538d44ae",
+          "allergens": {},
+          "dispense": "keykeg",
+          "style": "",
+          "name": "Stacks on Stacks",
+          "bar": "",
+          "abv": "13.5"
+        }
+      ],
+      "id": "bcd707d9626e012278a090aa04e1e48935b81699",
+      "name": "Willibald",
+      "year_founded": ""
+    },
+    {
+      "location": "Latvia",
+      "notes": "Latvia ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "480ab364aa6822ab6f6f56ec36bd118f9f928846",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Bourbon BA Imperial Stout Blend #1",
+          "bar": "",
+          "abv": "12.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "",
+          "id": "6e4b163c703af0db8849033e2d66a4b5e1a2ef29",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Bourbon BA Imperial Stout Blend #2",
+          "bar": "",
+          "abv": "12.0"
+        }
+      ],
+      "id": "e9f8027c6d1ac0f16703285b89215342657016a9",
+      "name": "Ārpus",
+      "year_founded": ""
+    }
+  ],
+  "timestamp": "Thu May 25 2023 23:27:57 BST"
+}
