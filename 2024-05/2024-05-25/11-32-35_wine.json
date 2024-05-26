@@ -1,0 +1,289 @@
+{
+  "producers": [
+    {
+      "location": "Suffolk",
+      "notes": "Suffolk ",
+      "products": [
+        {
+          "category": "wine",
+          "status_text": "",
+          "notes": "Wine GB East Best Bacchus 2022, fresh, zippy and loaded with citrus.",
+          "id": "b7117bd168c4108f6cfb3d0003f3e07714425873",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "White",
+          "name": "Bacchus",
+          "bar": "",
+          "abv": "11.0"
+        },
+        {
+          "category": "wine",
+          "status_text": "",
+          "notes": "A crisp pink wine made from 100% Pinot Noir grapes. Subtle aromas of violet, and flavours of cranberry and rhubarb along with passion fruit, were brought out by the hot dry summer of 2022. The wine is light-bodied, and dry to taste with a creamy, delicate palate. Silver medal winner. ",
+          "id": "b3b380041bbef8e66c597536c118ed7abe526b01",
+          "allergens": {
+            "sulphites": true
+          },
+          "dispense": "bottle",
+          "style": "Rosé",
+          "name": "Rosé",
+          "bar": "",
+          "abv": "11.0"
+        },
+        {
+          "category": "wine",
+          "status_text": "",
+          "notes": "100% pinot noir grapes give a delicate coral-pink colour with brioche notes and flavours of crisp red apple.",
+          "id": "d0c89add916039c99492053e49ac0fed4b5edbb3",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "Sparkling rosé",
+          "name": "Traditional Method Blanc de Noirs",
+          "bar": "",
+          "abv": "11.5"
+        }
+      ],
+      "id": "52acc1e71086da5229cb59a80d1edbfe9a1a7c25",
+      "name": "Coopers Croft",
+      "year_founded": ""
+    },
+    {
+      "location": "Boxted, Colchester, Essex",
+      "notes": "Boxted, Colchester, Essex ",
+      "products": [
+        {
+          "category": "wine",
+          "status_text": "",
+          "notes": "Lovely dry white wine with the aroma of melon and grapefruit with hints of kumquat and citrus.",
+          "id": "353eaf9532c508e88ae43c3c0d42e04234f15e20",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "White",
+          "name": "Colchester Oyster",
+          "bar": "",
+          "abv": "10.5"
+        }
+      ],
+      "id": "ff1eb8bd6cb17940ab78c0eeecf66268772f2061",
+      "name": "Dedham Vale",
+      "year_founded": ""
+    },
+    {
+      "location": "Suffolk",
+      "notes": "Suffolk ",
+      "products": [
+        {
+          "category": "wine",
+          "status_text": "",
+          "notes": "Bacchus is becoming known as the UK's answer to New Zealand Sauvignon Blanc. The Giffords house style is dryer than most, but as it is so fruit driven it tends to be mistaken for a medium dry. East Anglian Bacchus is distinctive and has an aromatic, fresh green hedgerow quality.",
+          "id": "45f810b854eb672d82e1a54209c6b8791f63bfd3",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "White",
+          "name": "Bacchus",
+          "bar": "",
+          "abv": "11.0"
+        },
+        {
+          "category": "wine",
+          "status_text": "",
+          "notes": "Wine GB East - wine of the year, 2022. Made using a traditional champagne method with Pinot Noir, Burgundy clone and Pinot Blanc grapes. Delicate floral twist and biscuit dry finish.",
+          "id": "9222a612b581f8e9040fe001afe3f219a8895359",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "Sparkling",
+          "name": "Classic Cuvée NV",
+          "bar": "",
+          "abv": "12.0"
+        },
+        {
+          "category": "wine",
+          "status_text": "",
+          "notes": "Smooth, warm, fireside red with spicy bouquet and cherry and earthy undertones.",
+          "id": "d6cea8941619bf1316f5d9782852c3c9c219f4da",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "Red",
+          "name": "Pinot Noir",
+          "bar": "",
+          "abv": "12.0"
+        },
+        {
+          "category": "wine",
+          "status_text": "",
+          "notes": "Blended from Madeleine Angevine and Rondo grape varieties. Clear glossy peachy pink. Wild strawberry and roses on the nose, with distinctive cherry notes.",
+          "id": "1203c9225856ee5e6e57990ca92c34ff623076b4",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "Rosé",
+          "name": "Rosé",
+          "bar": "",
+          "abv": "11.0"
+        },
+        {
+          "category": "wine",
+          "status_text": "",
+          "notes": "Barrel aged, gently refreshing and soft fruit character",
+          "id": "862f38f30e4d46e0633cae7c083652a82a638d12",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "Sparkling",
+          "name": "Sparkling Brut Reserve",
+          "bar": "",
+          "abv": "12.0"
+        },
+        {
+          "category": "wine",
+          "status_text": "",
+          "notes": "Classic Beaujolais style, made from Rondo and Pinot Noir grape varieties. This is an early drinking 'vin de pays', dry with great nose and length, full of summer fruits and beautifully made in the artisan style.",
+          "id": "495e7a7e4245b8999ddbf9950400eb8a313a8dae",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "Red",
+          "name": "St Edmundsbury",
+          "bar": "",
+          "abv": "11.0"
+        },
+        {
+          "category": "wine",
+          "status_text": "",
+          "notes": "Dry but balanced with a delicate floral nose. Raspberry and redcurrant notes.",
+          "id": "0431c5bc9776563717cc48be020564a81012ce0e",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Suffolk Pink",
+          "bar": "",
+          "abv": "12.0"
+        }
+      ],
+      "id": "0b5e7f0138ad72cf4f28d2ee0b0364e1071af9be",
+      "name": "Giffords Hall",
+      "year_founded": ""
+    },
+    {
+      "location": "Essex",
+      "notes": "Essex ",
+      "products": [
+        {
+          "category": "wine",
+          "status_text": "",
+          "notes": "Dry but fruity, flavours of gooseberry, nettle and elderflower.",
+          "id": "246457c98c580a52eb8327fc04e0a96196a53cd4",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "White",
+          "name": "Bacchus Reserve",
+          "bar": "",
+          "abv": "11.0"
+        },
+        {
+          "category": "wine",
+          "status_text": "",
+          "notes": "A 'traditional method' sparkling wine with crisp apple and red berry notes on the palate and tiny well-formed bubbles.",
+          "id": "afed70adda7079e7bed17ad7f41e935cf57e3b02",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "Sparkling",
+          "name": "Classic Brut",
+          "bar": "",
+          "abv": "11.0"
+        },
+        {
+          "category": "wine",
+          "status_text": "",
+          "notes": "Light, dry wine with hints of strawberry and citrus. Refreshing and easy-drinking",
+          "id": "d4f5326095846d90e4ad6edcd0dd579c6fe5d60a",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "Rosé",
+          "name": "Rosé",
+          "bar": "",
+          "abv": "11.0"
+        }
+      ],
+      "id": "bec6514b2367282ddc34cad353edd769f1dfd413",
+      "name": "Toppesfield",
+      "year_founded": ""
+    },
+    {
+      "location": "Cardington, Bedford",
+      "notes": "Cardington, Bedford ",
+      "products": [
+        {
+          "category": "wine",
+          "status_text": "",
+          "notes": "Balance of green apples and citrus fruits.",
+          "id": "3139e34bbe345c153c9436c7345d8e4cc8d0d811",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "White",
+          "name": "The Reformer 2018",
+          "bar": "",
+          "abv": "11.0"
+        }
+      ],
+      "id": "dd2dfa50dc8feca1e5303a87b2c6a42db3ebe102",
+      "name": "Warden Abbey",
+      "year_founded": ""
+    },
+    {
+      "location": "Norfolk",
+      "notes": "Norfolk ",
+      "products": [
+        {
+          "category": "wine",
+          "status_text": "",
+          "notes": "Aromas of cherries, strawberries and cream. A balanced palate of red fruits and rose petals.",
+          "id": "38db916f4550a9e88d68c471b58341e99ef9540e",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Pinot Noir Rosé",
+          "bar": "",
+          "abv": "11.5"
+        },
+        {
+          "category": "wine",
+          "status_text": "",
+          "notes": "Rich plum and dark berry fruits, spicy notes of coffee and blackberries. Something for Rioja fans.",
+          "id": "106a20fbb983de2c60379f7ad15426589274f0ce",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Signature",
+          "bar": "",
+          "abv": "12.0"
+        },
+        {
+          "category": "wine",
+          "status_text": "",
+          "notes": "Crisp apple and bright citrus",
+          "id": "af76b32a67c51c0a555d33fda061eda0a79c319c",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Solaris",
+          "bar": "",
+          "abv": "10.8"
+        },
+        {
+          "category": "wine",
+          "status_text": "",
+          "notes": "A blend of white peach, wild blossom and spice and a subtle hint of brioche",
+          "id": "b3621e91389ef0fe0836edd12195611915cee3f6",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Vintage Sparkling",
+          "bar": "",
+          "abv": "12.0"
+        }
+      ],
+      "id": "042ccdc6d60fbc84d9c1b0396ab0a6de37e41766",
+      "name": "Winbirri",
+      "year_founded": ""
+    }
+  ],
+  "timestamp": "Sat May 25 2024 11:32:35 BST"
+}

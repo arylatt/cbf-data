@@ -1,0 +1,3810 @@
+{
+  "producers": [
+    {
+      "location": "Lewes, East Sussex",
+      "notes": "Lewes, East Sussex est. 2016",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A refreshing and tart fruit sour with rhubarb, strawberry and vanilla",
+          "id": "781da5490b08453f1db8c3dc0f20b21be785fa91",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keg",
+          "style": "Fruit",
+          "name": "Rave",
+          "bar": "KeyKeg bar",
+          "abv": "5.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "This pina colada inspired IPA is bursting with coconut, pine and tropical fruit",
+          "id": "8248e45f7944d8d6f8fb3a4bc626d11827e2a9bb",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keg",
+          "style": "IPA",
+          "name": "Tropical Thunder",
+          "bar": "KeyKeg bar",
+          "abv": "6.2"
+        }
+      ],
+      "id": "e1e0b4868c21dad9a79bc0b107ce283815815bbd",
+      "name": "Abyss",
+      "year_founded": "2016"
+    },
+    {
+      "location": "Alnwick, Northumberland",
+      "notes": "Alnwick, Northumberland est. 2007",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Wonderfully soft and palatable bitter with a sweet and dry hop character",
+          "id": "6e9939d919c53c32978490f8258cba42586e5413",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Holy Island Bitter",
+          "bar": "Arctic",
+          "abv": "4.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Refreshing golden ale with a touch of honeyed sweetness",
+          "id": "39b46872ecf83b7d3550fb6811564602d35316db",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "Spring Blonde",
+          "bar": "Arctic",
+          "abv": "3.7"
+        }
+      ],
+      "id": "a12878949f4ea52703ab6a07c662b31895886cea",
+      "name": "Alnwick",
+      "year_founded": "2007"
+    },
+    {
+      "location": "Diss, Norfolk",
+      "notes": "Diss, Norfolk est. 2017",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A ruby mild brewed for May using Simpsons double roasted crystal malt combined with Bramling Cross Hops",
+          "id": "597bcf5538e875c47f3b398a3bf6de72ec091ff2",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Mild",
+          "name": "Fast Fashion",
+          "bar": "Arctic",
+          "abv": "3.4"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A dark beer with a smooth body and a little bite from the hops, made to the Baltic porter style",
+          "id": "96f1bd86a60adf89221935bee9c18ab74ee461d7",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Porter",
+          "name": "Torpor",
+          "bar": "Arctic",
+          "abv": "6.8"
+        }
+      ],
+      "id": "0ef17a0aeec9b581c548c779cecac2cf176cf2eb",
+      "name": "Ampersand",
+      "year_founded": "2017"
+    },
+    {
+      "location": "Ixworth, Suffolk",
+      "notes": "Ixworth, Suffolk est. 2020",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Full-bodied and sweet with smooth roast, hints of treacle, coffee and chocolate flavours",
+          "id": "88f6fae4f7e2d4830d58b0304b4377c3d620498b",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Mild",
+          "name": "Dark Mild",
+          "bar": "Arctic",
+          "abv": "3.2"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "This classic blonde ale is light, with sweet malt and subtle citrus flavours on the finish.",
+          "id": "b5a4cf5b32d8ee9a71d5b6b1c0185e413eb0c311",
+          "allergens": {},
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "Ixworth Blonde GF",
+          "bar": "Arctic",
+          "abv": "4.0"
+        }
+      ],
+      "id": "a9666b5dccd77a3e1c93eca34dce8eca6683bdbb",
+      "name": "Artefact",
+      "year_founded": "2020"
+    },
+    {
+      "location": "Hull, E Yorks",
+      "notes": "Hull, E Yorks est. 2013",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Simcoe single hop pale ale with refreshing grapefruit and passionfruit",
+          "id": "0a139d5b62439725cfb6f10d5a8333e75138726a",
+          "allergens": {},
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Paradigm",
+          "bar": "Arctic",
+          "abv": "3.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "An easy drinking pale packed with a tropical blend of US hops. Expect zesty citrus and smooth tropical fruit, with a resinous West coast edge and smooth bitterness",
+          "id": "6b3535c289296d2baed773c1117a010bb2c176a5",
+          "allergens": {},
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Quantum State",
+          "bar": "Arctic",
+          "abv": "4.2"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "An easy drinking pale packed with a tropical blend of US hops. Expect zesty citrus and smooth tropical fruit, with a resinous West coast edge and smooth bitterness",
+          "id": "6b3535c289296d2baed773c1117a010bb2c176a5",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "Pale Ale",
+          "name": "Quantum State",
+          "bar": "KeyKeg bar",
+          "abv": "4.2"
+        }
+      ],
+      "id": "0fe7ee75207aab55ebd41036f1da1b4e5fbe5b8f",
+      "name": "Atom",
+      "year_founded": "2013"
+    },
+    {
+      "location": "Fakenham, Norfolk",
+      "notes": "Fakenham, Norfolk est. 2017",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A russet coloured best bitter.",
+          "id": "2e972b9877b5fbde87e177bf79b68124ff1501e8",
+          "allergens": {},
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "B.O.B.",
+          "bar": "Arctic",
+          "abv": "4.3"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Hoppy golden ale",
+          "id": "196530af84da2f45643489bf3bd70694b5c89bfa",
+          "allergens": {},
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "Eastern Gold",
+          "bar": "Arctic",
+          "abv": "4.5"
+        }
+      ],
+      "id": "a9620937b497cee48d5ec618d6045ccffaf65ff5",
+      "name": "Barsham",
+      "year_founded": "2017"
+    },
+    {
+      "location": "King's Lynn, Norfolk",
+      "notes": "King's Lynn, Norfolk est. 2006",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Starts with warm fruity malts, finishing with a hoppy bitterness",
+          "id": "edfef41579f961ea401f709e13b2274f29078d09",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Magnificent Men",
+          "bar": "Arctic",
+          "abv": "7.2"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Rich malty red bitter with toffee notes. Brewed for local malt barley grower, Branthill Farm ",
+          "id": "2c9dd1cf2d32134392302024361ccc31be65a2a0",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Stirling",
+          "bar": "Arctic",
+          "abv": "4.5"
+        }
+      ],
+      "id": "a609bb8ab05a0d13db9eb1d0d3b1383d1703c17d",
+      "name": "Beeston",
+      "year_founded": "2006"
+    },
+    {
+      "location": "Newport, Pembrokeshire",
+      "notes": "Newport, Pembrokeshire est. 2013",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Red ale with rich malty flavours",
+          "id": "ba76b00e7dcff3e58b68e2caf59b1c1a43010438",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Red of Heaven",
+          "bar": "Arctic",
+          "abv": "4.2"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Chestnut-coloured, full-bodied bitter with a rich malty base",
+          "id": "604eeb9a3cb156e3d9ae6604d4c78f4e393c75ef",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Rocketeer",
+          "bar": "Arctic",
+          "abv": "4.6"
+        }
+      ],
+      "id": "57f386dc7f9c7ad2b5fdfbf53fe319bd36e9ef74",
+      "name": "Bluestone",
+      "year_founded": "2013"
+    },
+    {
+      "location": "Norfolk",
+      "notes": "Norfolk est. 2015",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A traditional stout with an aroma of dark autumnal berries and is full bodied with undertones of dark chocolate and roasted malts and a gentle, lingering finish.",
+          "id": "f736f2717e10ffaebf218ac614ac6cdc2d41adda",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Stout",
+          "name": "Spiral Stout",
+          "bar": "Arctic",
+          "abv": "4.6"
+        }
+      ],
+      "id": "9c320bc8499977b59b1c72b878b055ea494dd320",
+      "name": "Boudicca",
+      "year_founded": "2015"
+    },
+    {
+      "location": "Market Deeping, Lincs",
+      "notes": "Market Deeping, Lincs est. 2020",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "This honey IPA is a festival special for 2024.",
+          "id": "b97fa1b6ef528faaf6cf400e53f6a6561976bd5f",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "Honey I Drank the Kids",
+          "bar": "Arctic",
+          "abv": "5.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A refreshing and fruity summer ale loaded with Galaxy hops.",
+          "id": "c70dbb8599c819f48c50bc3ad3ec48eca6cac3f5",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "Sundance",
+          "bar": "Arctic",
+          "abv": "4.5"
+        }
+      ],
+      "id": "3413b8533e826b3f881a50cef818b60da3c23659",
+      "name": "Bowler's",
+      "year_founded": "2020"
+    },
+    {
+      "location": "Keighley, W Yorkshire",
+      "notes": "Keighley, W Yorkshire est. 2010",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A modern blonde ale with big traditional flavours, it features a blend of four hops and two malts, giving a citrus aroma with a grapefruit finish.",
+          "id": "b1394ed1dfb7ce948e9dadb668234b2e69a2c274",
+          "allergens": {},
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Blonde GF",
+          "bar": "Arctic",
+          "abv": "4.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "This crisp blonde ale has sweet citrus aromas, infused with real mexican Tequila and lime, with hints of grapefruit, finishing with bitter notes.",
+          "id": "cdf01fd303f23439967bfda30276aabd75836d1e",
+          "allergens": {},
+          "dispense": "cask",
+          "style": "Speciality",
+          "name": "Tequila Blonde",
+          "bar": "Arctic",
+          "abv": "3.8"
+        }
+      ],
+      "id": "dfd4b5c596e117a65a806491048c28cde5eab606",
+      "name": "Bridgehouse Brewery",
+      "year_founded": "2010"
+    },
+    {
+      "location": "Hertfordshire",
+      "notes": "Hertfordshire est. 2001",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "This rye IPA is rich and buttery, with sweetness from red berries. A great find for the connoisseur",
+          "id": "3459eaab78450215d96bbeb2b5c65917f7ab3d19",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "6 Degrees of Separation",
+          "bar": "Brewery Bars",
+          "abv": "4.6"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Traditional bitter, with notes of caramel and hedgerow fruit",
+          "id": "231a66a5268df4c4128d43da27658d7ead1e0915",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Hurricane",
+          "bar": "Brewery Bars",
+          "abv": "4.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Brewed in the style of a traditional English stout, the oats bring softness and a subtly roasted flavour.",
+          "id": "fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Stout",
+          "name": "Oatmeal Stout",
+          "bar": "Brewery Bars",
+          "abv": "4.4"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A truly pale blonde in colour, this beer is heavily hopped to give a really refreshing citrus-hop kick. Pineapple, Peach & Grapefruit hop flavours abound in levels that are such that you don't need to read the tasting notes to spot them...",
+          "id": "35e995c107a71caeb833bb3b79f9f54781b33fa1",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "Polar Star",
+          "bar": "Brewery Bars",
+          "abv": "4.4"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Expect melon, citrus and pine from this trial hop, CF184.",
+          "id": "4f145dfdaf9e1dbcf8a153c42e5c7886393e2360",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "Single Hop 'Princess'",
+          "bar": "Brewery Bars",
+          "abv": "4.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A deep red ale brewed in the style of a traditional German Dunkel, using malt solely from Munich and hops found in Hereford and Kent. Subtle notes of toffee and malt envelop the taste profile.",
+          "id": "896835880b082715dcf3e5d3abc2f7ede0258605",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Speciality",
+          "name": "The Eyes of Moddey Dhoo",
+          "bar": "Brewery Bars",
+          "abv": "4.3"
+        }
+      ],
+      "id": "77de68daecd823babbb58edb1c8e14d7106e83bb",
+      "name": "Buntingford",
+      "year_founded": "2001"
+    },
+    {
+      "location": "Birmingham",
+      "notes": "Birmingham est. 2016",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Some beer remaining",
+          "notes": "A remake of an original India pale ale from the 1880s, it's pale and packed full of hops.",
+          "id": "7af02fde327ffc8759eb19db450f3e495c851081",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "Origins IPA",
+          "bar": "Arctic",
+          "abv": "6.0"
+        }
+      ],
+      "id": "f5733b6720475ff5b4e8fa7514d090e10b1f7b07",
+      "name": "Burning Soul",
+      "year_founded": "2016"
+    },
+    {
+      "location": "Burwell, Cambs",
+      "notes": "Burwell, Cambs est. 2019",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Gold-coloured with a grassy aroma from Fuggle hops, this easy-drinking bitter features gentle malt flavours and a medium bitter finish. Ideal for summer.",
+          "id": "43564a7eb5a98b27150d422d34045a9bf4174d90",
+          "allergens": {},
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Slightly Beer Fuggled",
+          "bar": "Arctic",
+          "abv": "3.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Thanks to Hellertau hops, this straw-coloured, slightly cloudy wheat beer offers fruity aromas. It has classic wheat and fruit flavours,with a gentle bitter finish. Great cold on a hot summer day.",
+          "id": "a0feab1f7b7a6a6333abf8458c94cd4954e323cf",
+          "allergens": {},
+          "dispense": "cask",
+          "style": "Wheat",
+          "name": "Stefans' Mühle",
+          "bar": "Arctic",
+          "abv": "5.0"
+        }
+      ],
+      "id": "63cff56720d7927539651a6861d30e068332ffa0",
+      "name": "Burwell",
+      "year_founded": "2019"
+    },
+    {
+      "location": "Cambridge, Cambs",
+      "notes": "Cambridge, Cambs est. 2014",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A session beer featuring delicate Citra and Vic Secret hops, with crisp citrus and pineapple notes ",
+          "id": "151cdfa875e0a32a82d69d1c8e725c87dfcdcb57",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keg",
+          "style": "Pale Ale",
+          "name": "Luminescent Pale Ale",
+          "bar": "KeyKeg bar",
+          "abv": "4.4"
+        }
+      ],
+      "id": "b63c6a708fdbc915f27e637f1fb6bc411ffa0052",
+      "name": "Calverley's",
+      "year_founded": "2014"
+    },
+    {
+      "location": "Bishop Auckland, Co Durham",
+      "notes": "Bishop Auckland, Co Durham est. 2019",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Light copper in colour, this pale ale features citrus and resinous pine flavours.",
+          "id": "c75332f6e11beac75955ffc0528eb56dade636a3",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "3 Minute Voicemail",
+          "bar": "Arctic",
+          "abv": "3.4"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A hazy golden beer with flavours of citrus and tropical fruits",
+          "id": "27985dc20c4e4ba546c0f2b8cda25a34686395d6",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "Delicate Eco System",
+          "bar": "Arctic",
+          "abv": "5.9"
+        }
+      ],
+      "id": "a32738894826b55b4a63cdebc7790c5204084606",
+      "name": "Caps Off",
+      "year_founded": "2019"
+    },
+    {
+      "location": "Castor, Cambs",
+      "notes": "Castor, Cambs est. 2009",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "This New England IPA features Cascade, Eldorado and Sabro hops.",
+          "id": "d225fdbea4dc8e4942da60f57b70d460501cf638",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "A Long Way From the Corn Exchange",
+          "bar": "Arctic",
+          "abv": "5.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Expect fruity flavours, particularly mango, lemon, lime and lychee from this bitter brewed using a rich grain bill balanced by hops..",
+          "id": "adb8f0dccfbbb62ab6d34f9169dce771025dd02a",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Roman Mosaic",
+          "bar": "Arctic",
+          "abv": "4.2"
+        }
+      ],
+      "id": "7320828c9153b2a9848d6bc45d3544236b22fc48",
+      "name": "Castor",
+      "year_founded": "2009"
+    },
+    {
+      "location": "Sutton Weaver, Cheshire",
+      "notes": "Sutton Weaver, Cheshire est. 2016",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A smoked porter with black pepper flavours, this is a one-off stronger version of our multi-award-winning smoked porte.",
+          "id": "00201cc17c6d38a221744603ce75c9624c77c64d",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Speciality",
+          "name": "Dead Man's 7",
+          "bar": "Arctic",
+          "abv": "7.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A punchy, fragrant American pale with Columbus hops that complement the smooth malt bill.",
+          "id": "0571321e38ea286d57e480d1542a348b89328d6c",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "Kandata",
+          "bar": "Arctic",
+          "abv": "4.7"
+        }
+      ],
+      "id": "e762887f6f159deabbc30407bdac1f3cd8ba5634",
+      "name": "Chapter Brewing",
+      "year_founded": "2016"
+    },
+    {
+      "location": "Nuneaton, Warks",
+      "notes": "Nuneaton, Warks est. 1994",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Described as golden yellow nectar, this beer blends pale barley, crystal malt and oats for a full flavour, ending with a gentle hoppy finish.",
+          "id": "c28e08e2a2803463455082120786db8caa75e005",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Goats Milk",
+          "bar": "Arctic",
+          "abv": "3.8"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Honey beer",
+          "id": "a40a8fea55c192e3b5cf649da1537ce98d7fecb9",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Speciality",
+          "name": "Pooh Beer",
+          "bar": "Arctic",
+          "abv": "4.4"
+        }
+      ],
+      "id": "44b2920d7e9cb7c0ab668fd380af0c242dc27ad4",
+      "name": "Church End",
+      "year_founded": "1994"
+    },
+    {
+      "location": "Manchester",
+      "notes": "Manchester est. 2015",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Imagine all your favourite chocolate desserts crammed into a single glass. We've doubled up our usual additions of cacao and vanilla to create a hedonistic rush of flavours, blending gooey, dark chocolate brownies, silky ganache and smooth, cocoa-dusted truffles. The kind of elegant treat you'll delight in sharing with friends and loved ones at the end of a relaxing meal.",
+          "id": "4222ee50a11fbe85210c79018d2de0ff6c1dbfcc",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keykeg",
+          "style": "Stout",
+          "name": "My Continuous Improvement: The Original",
+          "bar": "KeyKeg bar",
+          "abv": "11.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "The beer is a blend of chuckleberry foudre ale and a chuckleberry wild ale with beer to fruit ratio of 1:1. Super fruity and has some complex fermentation character from the foudre.",
+          "id": "b7006f7c7308f53391407ae6c922412b58faac45",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keykeg",
+          "style": "Speciality",
+          "name": "On The Shores of Infinity",
+          "bar": "KeyKeg bar",
+          "abv": "5.0"
+        }
+      ],
+      "id": "ee3ef93429aba64bd0e6f7a0af8299e6416ceea4",
+      "name": "Cloudwater",
+      "year_founded": "2015"
+    },
+    {
+      "location": "Weston, Herts",
+      "notes": "Weston, Herts est. 2018",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Featuring raspberries and apricot, this blend of one-, two and three-year-old golden ales is spontaneously fermented and aged in neutral French oak barrels, then refermented on Driscoll's Maravilla raspberries from Northamptonshire. ",
+          "id": "a7e008608e608bc93176ce0c614821698e0c785b",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keg",
+          "style": "Fruit",
+          "name": "Red Hearth",
+          "bar": "KeyKeg bar",
+          "abv": "6.8"
+        }
+      ],
+      "id": "9fc70bb0f6377bc06f00f2b851e0617b71f407fc",
+      "name": "Crossover Blendery",
+      "year_founded": "2018"
+    },
+    {
+      "location": "South Woodham Ferrers, Essex",
+      "notes": "South Woodham Ferrers, Essex est. 1987",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": " Pale, refreshing and extravagantly hoppy beer with gorgeous aromas of tropical fruits. Brewed with 100% extra-pale English barley malt and flavoured with heaps of choicest Brewers Gold hops, sourced with care from small-scale growers in the Hallertau.",
+          "id": "6e9aaa5a8a5e8ead9c7e1409fe10d31d41288a5a",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "Brewers Gold",
+          "bar": "Arctic",
+          "abv": "4.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Full-bodied, traditional style mid-brown best brewed from 100% English barley malt and copious English Challenger and Boadicea hops.",
+          "id": "0375a7e65371c26ed18e6f7b1f73705805c7377a",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Essex Boys Best Bitter",
+          "bar": "Arctic",
+          "abv": "3.8"
+        }
+      ],
+      "id": "80e28a51cbc26fa4bd34938c5e593b36146f5e0c",
+      "name": "Crouch Vale",
+      "year_founded": "1987"
+    },
+    {
+      "location": "Grimsby, Lincs",
+      "notes": "Grimsby, Lincs est. 2018",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A Kveik IPA with flavours of mango, guava and pineapple.",
+          "id": "d9c8f783a6c73822d9cb08997f988e1376bcbafd",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keg",
+          "style": "IPA",
+          "name": "Bouba",
+          "bar": "KeyKeg bar",
+          "abv": "6.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Brewed with lager yeast, but fermented at ale fermentation temperatures, this California Common beer is burnt gold in colour and bursting with fruity hoppy aromas, with hits of lychee, pine and orange. It's eminently drinkable with a subtle bitterness, medium body and a sweetness from the slightly higher finishing gravity. A foundation of Lager, Wheat, Vienna and Caramalt in the grist with Saaz, Hallertau Blanc and Citra hops in the Engine Room pulling the levers to create a distinctly smooth, hoppy beer.",
+          "id": "b82bc18a58fd0f4940517ca74e27932fa4995e92",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Helihopter",
+          "bar": "Arctic",
+          "abv": "3.4"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A tropical and citrus kick brewed with Magnum hops.",
+          "id": "059c021f9e61aa039a894b1eb543c6f0f81aa9e2",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "Never Say Die",
+          "bar": "Arctic",
+          "abv": "6.0"
+        }
+      ],
+      "id": "80c06016b31ffa3b0d157bef344a5fe03cc7fd75",
+      "name": "Docks",
+      "year_founded": "2018"
+    },
+    {
+      "location": "Little Downham, Cambs",
+      "notes": "Little Downham, Cambs est. 2016",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A modern take on an American IPA, this light golden ale has a good mouthfeel, a great flavour profile of malt and hops, and a dry finish. ",
+          "id": "d4eb4005ceba026fa4c73f56dec349d7203cbe48",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "Goose Ely",
+          "bar": "Arctic",
+          "abv": "5.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "This refreshing beer features fruity flavours and aromas and a moderate bitter finish.",
+          "id": "6043c687960da3f711e93e4297c55288d8c0a30e",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "Main Street Citra",
+          "bar": "Arctic",
+          "abv": "5.0"
+        }
+      ],
+      "id": "d42f809cafe06a2a03452ca07ab273a110e75314",
+      "name": "Downham Isle",
+      "year_founded": "2016"
+    },
+    {
+      "location": "Drinkstone, Suffolk",
+      "notes": "Drinkstone, Suffolk est. 2020",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A complex stout with a slight orange nose and a hint of coffee and chocolate on the palate.",
+          "id": "25d514139bb7998227e556af67dddf96f5b9173f",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Stout",
+          "name": "Silver Shadow Stout",
+          "bar": "DMZ",
+          "abv": "5.4"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Light and well-balanced English pale ale with Challenger, Boadicea and Golding hops.",
+          "id": "3afcbc040736be6e892560a2a8cc742f971b27e1",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Uncle Percy's Solar-Powered Pale Ale",
+          "bar": "DMZ",
+          "abv": "4.0"
+        }
+      ],
+      "id": "5dea830b5fc59bcff2c866e9b15827e5b097cc60",
+      "name": "Drinkstone Ales",
+      "year_founded": "2020"
+    },
+    {
+      "location": "King's Lynn, Norfolk",
+      "notes": "King's Lynn, Norfolk est. 2019",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Expect vibrant citrus, tropical fruits and floral aromas from this fusion of Southern hemisphere, Ella and Motueka hops. This complex cask ale has notes of lime, pineapple and nectarine with subtle spice undertones.",
+          "id": "1addc9c4439239bde34df2118e76bc114ece1a83",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "G'Day",
+          "bar": "DMZ",
+          "abv": "4.4"
+        },
+        {
+          "category": "beer",
+          "status_text": "Some beer remaining",
+          "notes": "A deliciously juicy IPA, Turtles has a soft bitterness and a wonderfully tropical taste. Made with great balance for year-round easy refreshment, it features pronounced hops and a rounded body with soft bitterness. ",
+          "id": "ebe5bbf28f78b9ef9574654dfd222cb7e861405b",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "Turtles All The Way Down",
+          "bar": "DMZ",
+          "abv": "5.5"
+        }
+      ],
+      "id": "2c7e8e1dd6775fca342e16be888f8b02545dafb9",
+      "name": "Duration",
+      "year_founded": "2019"
+    },
+    {
+      "location": "London",
+      "notes": "London est. 2011",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A golden beer using English hops throughout, in particular Bramling Cross, Jamboree blends lager, pale and wheat malt for a smooth but refreshing mouthfeel.",
+          "id": "13494835cb9772b5aeacdd763d4cc8a826720ac9",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "Jamboree",
+          "bar": "DMZ",
+          "abv": "4.8"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A collaboration with London Beer Co, this stout features toasted coconut.",
+          "id": "82a3a2e14e79abc6ecce494d4b3ebe045b07f85f",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Stout",
+          "name": "Talk to the Palm Imperial Stout",
+          "bar": "DMZ",
+          "abv": "8.4"
+        }
+      ],
+      "id": "42405d7bf8a6c5d1cbf57dd8a4411bdf0b188b58",
+      "name": "East London",
+      "year_founded": "2011"
+    },
+    {
+      "location": "Wisbech, Cambs",
+      "notes": "Wisbech, Cambs est. 1795",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "In this dryish, complex dark mild, caramel combines malt, roast and dark berry fruit flavours, plus a hint of sweetness.",
+          "id": "b2029ba5ea1042d78c96d3888897571eea8c27fa",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Mild",
+          "name": "Black Dog",
+          "bar": "DMZ",
+          "abv": "3.4"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "New World style, hoppy pale ale.",
+          "id": "70e5eff3111f9811be875da9931d410d2262717a",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "New World Session",
+          "bar": "DMZ",
+          "abv": "4.4"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Dark, roast flavours of coffee and chocolate.",
+          "id": "a8627db4776d6a7f158e08be4635924f1e1e2794",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Porter",
+          "name": "North Brink Porter",
+          "bar": "DMZ",
+          "abv": "5.0"
+        }
+      ],
+      "id": "c1dfd96eea8cc2b62785275bca38ac261256e278",
+      "name": "Elgood's",
+      "year_founded": "1795"
+    },
+    {
+      "location": "Snetterton, Norfolk",
+      "notes": "Snetterton, Norfolk est. 2007",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A strong-bodied stout, with rich coffee and classic hop aromas, dark ripe fruit flavours and a velvet smoothness",
+          "id": "39a128e412859898ba91aec689047bb5fc2a3528",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Stout",
+          "name": "Dark Horse Stout",
+          "bar": "DMZ",
+          "abv": "5.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "This traditional pale ale is initially malty and delicately bittered, leading on to a long, dry biscuit finish, enhanced by subtle citrus aromas.",
+          "id": "c8566e7b1826ee557cbc07695dec489858f75f6a",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "Golden Pale Ale",
+          "bar": "DMZ",
+          "abv": "5.0"
+        }
+      ],
+      "id": "50336bc687eb161ee9fb0ddb8cf2b7e65bad865f",
+      "name": "Elmtree",
+      "year_founded": "2007"
+    },
+    {
+      "location": "Stourbridge, W Mids",
+      "notes": "Stourbridge, W Mids est. 1993",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Made using ginger root extract for a refreshing flavour that is not overpowering.",
+          "id": "c267645a02d0901147b7bc4a2b98868cd2e8c1da",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Speciality",
+          "name": "Ginger",
+          "bar": "DMZ",
+          "abv": "4.6"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "This dark, traditional style porter offers a complex mix of roast malt and fruit flavours, with a degree of sweetness giving way to a dry finish.",
+          "id": "1919394cd34c10dbaf0af783ca65db6d81d20d54",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Porter",
+          "name": "Old Porter ",
+          "bar": "DMZ",
+          "abv": "4.5"
+        }
+      ],
+      "id": "7d7116e23efef7292cad5e6f033d9a962708228c",
+      "name": "Enville",
+      "year_founded": "1993"
+    },
+    {
+      "location": "Derby, Derbys",
+      "notes": "Derby, Derbys est. 1999",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Light gold in colour with a malt and honey nose, this ale's smooth malt flavours lead to a clean, balanced malt and hop finish.",
+          "id": "864b374aba2cec43d28102d29538eb2703eb18d5",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "3 Faze",
+          "bar": "DMZ",
+          "abv": "3.8"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Base flavours of dark malts, chocolate, vanilla, prunes and fortified wine. Rich and full-bodied with hints of coffee, this stout is cask aged for a minimum of six months.",
+          "id": "d4fdafbd16a5a1c8c9d0d8498ced2c0960922396",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Stout",
+          "name": "P2 Imperial Stout",
+          "bar": "DMZ",
+          "abv": "8.4"
+        }
+      ],
+      "id": "bcd011e13bca1e1a0fdc4c8e2000bcabd52e74ec",
+      "name": "Falstaff",
+      "year_founded": "1999"
+    },
+    {
+      "location": "Elsdon, Northumberland",
+      "notes": "Elsdon, Northumberland est. 2016",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Expect tropical and citrus flavour from the Mosaic and Citra hops in this session IPA. It's brewed with pale barley, caramalt and oats for a smooth and silky mouthfeel.",
+          "id": "f6d3678f46db402d8bc81b2af63db9f64d7f2027",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "Mad Jack Ha",
+          "bar": "DMZ",
+          "abv": "3.8"
+        },
+        {
+          "category": "beer",
+          "status_text": "Some beer remaining",
+          "notes": "This Irish red ale has plum pudding and malted-milk biscuit aromas, fruity flavours and honey top notes, giving way to a warm, spiced finish. It's a full-flavoured ale, deep red in colour.",
+          "id": "0a532cdeb553715da0fe5daa27bb98944ba30dd5",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Red Rowan",
+          "bar": "DMZ",
+          "abv": "4.0"
+        }
+      ],
+      "id": "b749475c2b2f437d28cf26bdf900e04569fed62c",
+      "name": "First and Last",
+      "year_founded": "2016"
+    },
+    {
+      "location": "Cairndow, Argyll",
+      "notes": "Cairndow, Argyll est. 2001",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A full-on citrus experience. Light and golden, a perfect ale for whiling away the hours on a sunny day.",
+          "id": "1c710b1ca4bc921803cf096a5b2bb48d55947e4d",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Jarl",
+          "bar": "DMZ",
+          "abv": "3.8"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Session IPA dry hopped with Wai-iti, Talus and Strata, delivering fresh grapefruit, peach and apricot, with a touch of earthy funk.",
+          "id": "a5cc731b37dd07391467b283e2e107de6a061b1a",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Shapes In The Clouds",
+          "bar": "DMZ",
+          "abv": "3.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A rare variant on Jarl, this is a much stronger version of our flagship Citra blonde, with bold fruit and whisky notes.",
+          "id": "bdc4dd54f59f85b6cc0eb749337422e73a222ed9",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keykeg",
+          "style": "Golden Ale",
+          "name": "Whisky BA Jarl",
+          "bar": "KeyKeg bar",
+          "abv": "6.7"
+        }
+      ],
+      "id": "0bad865a02d82f4970687ffe1b80822b76cc0626",
+      "name": "Fyne Ales",
+      "year_founded": "2001"
+    },
+    {
+      "location": "Bristol",
+      "notes": "Bristol est. 2015",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Richly golden in colour, with juicy flavours of grapefruit, papaya and pine resin, thanks to the abundant Simcoe, Centennial, Mosaic and Cascade hops.",
+          "id": "0cc293c7b33cb99f9b836c9f3f9cfbadf2ad17e0",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "Pale Ale",
+          "name": "Free Thinker",
+          "bar": "KeyKeg bar",
+          "abv": "4.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Hoppy wheat beer with Vic Secret, Amarillo and Citra.",
+          "id": "0c00f7b4c41548860a4986daa7ed8bdb88045908",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keg",
+          "style": "Wheat",
+          "name": "Secret Weisse",
+          "bar": "KeyKeg bar",
+          "abv": "4.1"
+        }
+      ],
+      "id": "023c147537dfe1c60595364ee7a14cfc793e396d",
+      "name": "Good Chemistry",
+      "year_founded": "2015"
+    },
+    {
+      "location": "Alburgh, Norfolk",
+      "notes": "Alburgh, Norfolk est. 2006",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Go back to the future with this black-coloured stout based on a 1790 Whitbread recipe. Its roast aroma dominates from the start to the long-lingering finish, with a bittersweet chocolate note adding depth. ",
+          "id": "17b9e1fb62623361831924370675857fe73225b8",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Stout",
+          "name": "Blackwood Stout",
+          "bar": "DMZ",
+          "abv": "5.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Light on the palate and bursting with juicy, tropical fruit hop flavours.",
+          "id": "fac739b20c85267abf918d5e7c90529b5671be17",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "Lignum Vitae",
+          "bar": "DMZ",
+          "abv": "6.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Hazy juicy IPA, with punchy orange flavours.",
+          "id": "e9d39de95f1b4e11ed0ea0e5f82144185a62cf23",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Okapi",
+          "bar": "DMZ",
+          "abv": "4.5"
+        }
+      ],
+      "id": "536fb6934062440c464ca2eef82b0be8e6b36cc8",
+      "name": "Grain",
+      "year_founded": "2006"
+    },
+    {
+      "location": "Bungay, Suffolk",
+      "notes": "Bungay, Suffolk est. 1991",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Stronger than usual, this cask-conditioned mild features rich flavours and Bobek hops.",
+          "id": "ca0959966b32093f417bbae51fbb26b9be115f2f",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Mild",
+          "name": "Strong Mild",
+          "bar": "DMZ",
+          "abv": "5.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Gold in colour, with floral, citrus aromas and hints of pear and peach",
+          "id": "e6adcd0540388f84fa2476cb8fcc6550de196f73",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Wyvern APA",
+          "bar": "DMZ",
+          "abv": "5.0"
+        }
+      ],
+      "id": "8f4b7a4f3e5c58eab322fc067ca3d00de50c0bc9",
+      "name": "Green Dragon",
+      "year_founded": "1991"
+    },
+    {
+      "location": "Stourbridge, W Midlands",
+      "notes": "Stourbridge, W Midlands est. 2013",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A nod to our local brewing heritage, this mild has a deep malt flavour, with notes of caramel and chocolate.",
+          "id": "d7dbc0a430b18d142281c54ea4865af960267cb3",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Mild",
+          "name": "Bostin' Mild",
+          "bar": "DMZ",
+          "abv": "3.2"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Oats, oats and more oats! A soft, smooth and luscious mouthfeel with notes of rich chocolate and roast.",
+          "id": "1a9b9508b6003b68ddfe03a9c8cbc4bd4388339b",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Stout",
+          "name": "Murder She Oat",
+          "bar": "DMZ",
+          "abv": "5.2"
+        }
+      ],
+      "id": "df93151d1f40e8349efcabc94af789149f2fe2d5",
+      "name": "Green Duck",
+      "year_founded": "2013"
+    },
+    {
+      "location": "Lowestoft, Suffolk",
+      "notes": "Lowestoft, Suffolk est. 2003",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A bright golden colour, this wheat beer has restrained zesty citrus flavour from the hops and orange peels, balanced wtih soft sweetness from the wheat malt.",
+          "id": "63573d008f93d619a8743d27c55d58dcaab1c28d",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Fruit",
+          "name": "Orange Wheat Beer",
+          "bar": "DMZ",
+          "abv": "4.2"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A rich fruity red ale brewed with oak and beech smoked malt for a subtle smokey flavour and a dry smokey finish.",
+          "id": "5c2cda99948c3eccd297cbf2159f1ad295a9e127",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Red Herring",
+          "bar": "DMZ",
+          "abv": "5.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Full-bodied, copper-coloured premium bitter brewed with English whole cone hops. Rich and malty with fruity hop flavours.",
+          "id": "1dd4b9d8e432a99a58165a17dd67e5bd8791272e",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Trawlerboys",
+          "bar": "DMZ",
+          "abv": "4.6"
+        }
+      ],
+      "id": "9109c85a45b703f87f1413a405549a2cea9ab556",
+      "name": "Green Jack",
+      "year_founded": "2003"
+    },
+    {
+      "location": "Somersham, Hunts",
+      "notes": "Somersham, Hunts est. 2020",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": " A modern golden coloured lager brewed to mimic beers at Germany's Munich Oktoberfest. It features plenty of German malt, balanced with real German hops for a clean taste and a touch of bitterness.",
+          "id": "2685d956059a85ccaa074d45ba5750fc9a3e7bff",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Lager",
+          "name": "601 Club",
+          "bar": "DMZ",
+          "abv": "6.1"
+        },
+        {
+          "category": "beer",
+          "status_text": "Some beer remaining",
+          "notes": "A fruit bomb of a hazy American Pale Ale, thanks to lashings of hops so expect an amazing aroma and tropical taste. Plenty of malt gives depth, compensating for the hop overload.",
+          "id": "f31fb0ad72d783261b7e02fc39599026e182c3b9",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "She Keeps It Nice",
+          "bar": "DMZ",
+          "abv": "4.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A complex mix of roasted and chocolate malts, plus Brazilian coffee beans and Brazil nuts gives this porter a wonderfully rich character.",
+          "id": "ade8a59e6592b1a294936aa3d18029854b562540",
+          "allergens": {
+            "gluten": true,
+            "nuts": true
+          },
+          "dispense": "cask",
+          "style": "Porter",
+          "name": "What Do You Recommend",
+          "bar": "DMZ",
+          "abv": "6.0"
+        }
+      ],
+      "id": "96327d5521a52aff95ad8066420f715fdd0d2561",
+      "name": "Ivo",
+      "year_founded": "2020"
+    },
+    {
+      "location": "Bermondsey, London",
+      "notes": "Bermondsey, London est. 2009",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Fresh British rhubarb macerated for three months with fresh saison for a dry, acidic flavour.",
+          "id": "181302b59eb881f9d2b96b309064679997132ee7",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keykeg",
+          "style": "Fruit",
+          "name": "Bière de Saison - Rhubarb",
+          "bar": "KeyKeg bar",
+          "abv": "4.4"
+        }
+      ],
+      "id": "76e14d2b128dec91b6e21196aa9a680392eded87",
+      "name": "Kernel",
+      "year_founded": "2009"
+    },
+    {
+      "location": "Lower Beeding, W Sussex",
+      "notes": "Lower Beeding, W Sussex est. 2010",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Expect richness and softness in perfect harmony, with hints of chocolate, woodsmoke and well-aged brandy in this rare and complex double mashed imperial stout.",
+          "id": "177bd7b658410586016853c10bc6e26150814ede",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Stout",
+          "name": "Murder of Crows",
+          "bar": "DMZ",
+          "abv": "10.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Full-bodied dark roasted backbone. Subtle blueberry and raisin notes with a gentle gathering bitterness.",
+          "id": "2ffe176e0a0193b4d501fd081d4a1a7fa46f961c",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Porter",
+          "name": "Powder Blue Blueberry Porter",
+          "bar": "DMZ",
+          "abv": "5.0"
+        }
+      ],
+      "id": "2bc4a9de212381b2bbb88945fcc28f65c338b37a",
+      "name": "Kissingate",
+      "year_founded": "2010"
+    },
+    {
+      "location": "Great Yarmouth, Norfolk",
+      "notes": "Great Yarmouth, Norfolk est. 2013",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Some beer remaining",
+          "notes": "Hints of melon and strawberry flavour this well-balanced, crisp and floral spring ale, brewed with local raw wildflower honey from Lacons hives and Huell melon hops. A pale straw colour, it has a silk mouthfeel. ",
+          "id": "75b075550656396d997efaa46875aacae422ad96",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Speciality",
+          "name": "Bloom",
+          "bar": "DMZ",
+          "abv": "4.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A warming mild-bodied ale with a slightly nutty flavour and rich taste thanks to being aged for more than three months.",
+          "id": "32f184f073eff04c178c585e8c8b764d09746f79",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Old Ale",
+          "name": "Old Nogg",
+          "bar": "DMZ",
+          "abv": "6.0"
+        }
+      ],
+      "id": "0f3c97b08484e459263448e551ae79f2d31ca102",
+      "name": "Lacons",
+      "year_founded": "2013"
+    },
+    {
+      "location": "Bristol",
+      "notes": "Bristol est. 2014",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A rich mahogany-coloured mild with notes of hedgerow berries, smooth caramel and lightly roasted malt.",
+          "id": "56719e3999a09e949b972b0ebc775838e2b8ec72",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Mild",
+          "name": "Dark Mild",
+          "bar": "DMZ",
+          "abv": "3.4"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A refreshing pale ale with a lean and crisp base featuring tonnes of Simcoe, plus T90, Cyro and Incognito hops. It's our second special cask release of 2024.",
+          "id": "635aac8525d96068365c5697466c440ae2f65729",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Simcoe Pale",
+          "bar": "DMZ",
+          "abv": "4.4"
+        }
+      ],
+      "id": "dcaf40c6c1c62869cb48c59b9ea23a34da5eac43",
+      "name": "Left Handed Giant",
+      "year_founded": "2014"
+    },
+    {
+      "location": "Leigh on Sea, Essex",
+      "notes": "Leigh on Sea, Essex est. 2017",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Made with top quality traditional ingredients, delivering a strong beer with complex flavours of toffee and vinous fruits.",
+          "id": "5e8c52f7822a5353ef8695e89452481b4425be09",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Barley Wine",
+          "name": "Barley Wine 2023",
+          "bar": "DMZ",
+          "abv": "8.4"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Slightly hazy and with a bitter finish, this classic IPA leans towards a West Coast style. Brewed with Amarillo, Centennial, Mosaic and Simcoe hops.",
+          "id": "84db66c1529942a2a4598d6f5267a4a731b91f47",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "Boatyard IPA",
+          "bar": "DMZ",
+          "abv": "5.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Our refreshing golden ale, brewed with a variety of English and American hops.",
+          "id": "2c2c51c5a77d1ed0eaeab9cc7c34d96bc4ef8d3d",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "Kursaal Gold",
+          "bar": "DMZ",
+          "abv": "3.9"
+        }
+      ],
+      "id": "5f0748eb7d328dd4f36ea6646d3582f78f397651",
+      "name": "Leigh on Sea",
+      "year_founded": "2017"
+    },
+    {
+      "location": "Nottingham, Notts",
+      "notes": "Nottingham, Notts est. 2014",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Juicy and hoppy, this American style IPA was Champion Beer of Nottingham 2020.",
+          "id": "14a0a22444d4f8542663a5491f9a1372af34bb38",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "200 Not Out",
+          "bar": "DMZ",
+          "abv": "6.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Citra oatmeal pale.",
+          "id": "e89b7fe427770946e8973c7ad7af8590d3ea17ca",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Breakfast in America",
+          "bar": "DMZ",
+          "abv": "4.1"
+        }
+      ],
+      "id": "7925213d2339a1ab016c9d94edd2ff680a8f68ce",
+      "name": "Lenton Lane",
+      "year_founded": "2014"
+    },
+    {
+      "location": "Derby, Derbys",
+      "notes": "Derby, Derbys est. 2015",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "This premium pale ale is rammed with Citra, Mosaic and Simcoe hops giving a refreshing beer with a smooth clean finish.",
+          "id": "748a9bd842bb1810119374d7b359b5314f18ab56",
+          "allergens": {},
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Epiphany",
+          "bar": "DMZ",
+          "abv": "4.1"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A wonderfully balanced hazy session pale ale, with floral and citrus notes.",
+          "id": "1b4dc47fa2c5e59e6d12c9cd8621c5bd38a6f4f3",
+          "allergens": {},
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Hush",
+          "bar": "DMZ",
+          "abv": "4.4"
+        }
+      ],
+      "id": "18c448c7d0444be4f5ba97a7cf7a81604658b9d8",
+      "name": "Little Brewing",
+      "year_founded": "2015"
+    },
+    {
+      "location": "Dry Drayton, Cambs",
+      "notes": "Dry Drayton, Cambs est. 2010",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Special for the 2024 festival",
+          "id": "ff1232c5386d1bcb4da0e652e55fe932dc722239",
+          "allergens": {
+            "gluten": true,
+            "sulphites": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "50 Festivals Later",
+          "bar": "DMZ",
+          "abv": "5.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Tropical fruit pulp IPA",
+          "id": "6fc7fcd1e89ee08388030d2be66b84b179d3df3d",
+          "allergens": {
+            "gluten": true,
+            "sulphites": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "Kaiju",
+          "bar": "DMZ",
+          "abv": "5.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Refreshing lemongrass pale with a peppery bitterness.",
+          "id": "1e0fe3b8bfa202ce3aa05d18634ee2a31c8d9726",
+          "allergens": {
+            "gluten": true,
+            "sulphites": true
+          },
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "Spiffing Wheeze",
+          "bar": "DMZ",
+          "abv": "3.9"
+        }
+      ],
+      "id": "ac2646028f5b8b9bbf7a967f4ac71b8866135211",
+      "name": "Lord Conrad's",
+      "year_founded": "2010"
+    },
+    {
+      "location": "Biggleswade, Beds",
+      "notes": "Biggleswade, Beds est. 2022",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Some beer remaining",
+          "notes": "Full-bodied, rounded malty and biscuit tastes, this beautiful deep red-brown beer is moderately hopped and slightly dry.",
+          "id": "1bc4722498c0fc26908471c059af8d1a96beb5e0",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Mild",
+          "name": "Brown Owl",
+          "bar": "Pride Bar",
+          "abv": "3.2"
+        },
+        {
+          "category": "beer",
+          "status_text": "Some beer remaining",
+          "notes": "Surprisingly refreshing, this beer is brewed from an 1850 Whitbread recipe using pale, brown, chocolate and black malts and lots of Fuggles and East Kent Goldings hops. ",
+          "id": "678588b346410965c56815461c92bbc57deb8592",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Porter",
+          "name": "V&A Porter",
+          "bar": "Pride Bar",
+          "abv": "5.4"
+        }
+      ],
+      "id": "44a0f057e2ff2e7ceb57eb89a1fb672b9f8d4a19",
+      "name": "March Hare",
+      "year_founded": "2022"
+    },
+    {
+      "location": "Maldon, Essex",
+      "notes": "Maldon, Essex est. 1996",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "With a subtle grapefruit aroma, this traditional IPA style beer has a long bittersweet finish, with a robust character and a bitterness balanced with an intense floral hop flavour. ",
+          "id": "2f80c3448f54db08d910c2d6dfe3dc2f202e0da4",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "Cascade IPA",
+          "bar": "Pride Bar",
+          "abv": "6.2"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Roasty dark mild with suggestions of forest fruits and dark chocolate. A sweet taste yields to a more bitter finish.",
+          "id": "578fc554ad4ca2870648bf32a9795091dab371b3",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Dark Mild",
+          "name": "Oscar Wilde",
+          "bar": "Pride Bar",
+          "abv": "3.7"
+        }
+      ],
+      "id": "90af7edbfd8a161a7f711504a114aaf5bf597f9f",
+      "name": "Mighty Oak",
+      "year_founded": "1996"
+    },
+    {
+      "location": "Peterborough, Cambs",
+      "notes": "Peterborough, Cambs est. 2012",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "This cask conditioned German-style Pilsner, has a clean, smooth, fresh flavour and is brewed with pilsner malt and Tettnang and Hallertau hops.",
+          "id": "8d49a57bbca581698bcb14855fde96f339ac6210",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Lager",
+          "name": "Fenland Pilsner",
+          "bar": "Pride Bar",
+          "abv": "4.9"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A well-balanced bitter with plenty of red fruit flavours.",
+          "id": "ef635a98f867dc15eebb3cd10125fa99312cf1aa",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Rolling Mile",
+          "bar": "Pride Bar",
+          "abv": "3.9"
+        }
+      ],
+      "id": "6765c043a097743fe613e347c1cd7f770096750d",
+      "name": "Mile Tree",
+      "year_founded": "2012"
+    },
+    {
+      "location": "Cromwell, Notts",
+      "notes": "Cromwell, Notts est. 2004",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Refreshing New World IPA with citrus and gooseberry flavours. Nelson Sauvin hops.",
+          "id": "0adf7fb43b88503d58be4a66664709246f4ff275",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "Fletchers Ale",
+          "bar": "Pride Bar",
+          "abv": "5.2"
+        },
+        {
+          "category": "beer",
+          "status_text": "Some beer remaining",
+          "notes": "Black rich smooth creamy porter with a subtle hint of honey.",
+          "id": "9c5b2832038cc2e7f724147238f52c67b1dcc170",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Porter",
+          "name": "Honey Porter",
+          "bar": "Pride Bar",
+          "abv": "4.9"
+        }
+      ],
+      "id": "972a67c48192728a34979d9a35164c1295401b71",
+      "name": "Milestone",
+      "year_founded": "2004"
+    },
+    {
+      "location": "Waterbeach, Cambs",
+      "notes": "Waterbeach, Cambs est. 1999",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Orange and caramel on the nose, rich sweet marmalade notes lead to a pleasant bitter finish",
+          "id": "dde92ac3921698869d0753995506b4ffa4cf5b20",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "Beerset",
+          "bar": "Pride Bar",
+          "abv": "4.2"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Special for 25 years of Milton Brewery. Rich, sweet and full with a burst of boozy bitter orange. ",
+          "id": "67559496613817e7d1bfb3a1d496c2aaa025325b",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Demisemicentenary",
+          "bar": "Pride Bar",
+          "abv": "6.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Some beer remaining",
+          "notes": "Special for the 2024 festival. Light citrus with a pleasing bitter finish.",
+          "id": "f6a24e6a9fa2208bcf9f2d7f0929f9de03a6dc0f",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "Kvindekjariĝo",
+          "bar": "Pride Bar",
+          "abv": "4.8"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Rich, dark mild with bags of character from the lavish use of chocolate malt.",
+          "id": "df518c2e0702a3bec12b032911d3090d9bfef76c",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Mild",
+          "name": "Minotaur",
+          "bar": "Pride Bar",
+          "abv": "3.3"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A satisfying, full-flavoured black brew with a good balance of malt, roast and fruit. Bittersweet flavours carry through to a dry finish.",
+          "id": "23a63310b8e95a3702b44b2f22f3248de1561e88",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Stout",
+          "name": "Nero",
+          "bar": "Pride Bar",
+          "abv": "5.0"
+        }
+      ],
+      "id": "17ba0791499db908433b80f37c5fbc89b870084b",
+      "name": "Milton",
+      "year_founded": "1999"
+    },
+    {
+      "location": "Hindringham, Norfolk",
+      "notes": "Hindringham, Norfolk est. 2012",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Blonde IPA, fruity bitterness and crisp, dry finish. Champion Cask Beer of Norfolk 2023",
+          "id": "0ba533548adde0c92de049cd29aafaa928fbfb61",
+          "allergens": {},
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "Cheeky Jack",
+          "bar": "Pride Bar",
+          "abv": "5.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Light, fruity and packed full of complex flavours",
+          "id": "124a2ed73aca9a2fd9392558fad5baaa5fb190d8",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "Ostara",
+          "bar": "Pride Bar",
+          "abv": "4.3"
+        }
+      ],
+      "id": "a5032bbea5c04c3947d0d0fa4bf03139178be3df",
+      "name": "Moongazer",
+      "year_founded": "2012"
+    },
+    {
+      "location": "Fulbourn, Cambs",
+      "notes": "Fulbourn, Cambs est. 2004",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Fruity and refreshing, subtle blueberries and a bright finish. Ideal for a summer's day. ",
+          "id": "6fafbdc51c45a6c0b534795748fd055da049b35f",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Fruit",
+          "name": "Blueberry Ale",
+          "bar": "Pride Bar",
+          "abv": "4.6"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Sweet with rich malty flavours thanks to dark roasted malts blended with oats and wheat for a mellow, silky smooth and juicy rich stout.",
+          "id": "d8dcd0169f5ce9696c6defb8fe23ea759c5160ff",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Stout",
+          "name": "Cellarman's Stout",
+          "bar": "Pride Bar",
+          "abv": "6.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Some beer remaining",
+          "notes": "Special for the 2024 festival. Light in body, smooth with   a lingering melon finish.",
+          "id": "3e0e2e83e8178ee420743fe0799e03865b5e49a3",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "How It Ends",
+          "bar": "Pride Bar",
+          "abv": "5.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Reddish beer made from East Anglian malts and the finest Kent hops",
+          "id": "4b30155850fc602d8595dc19ea0e610b485b504e",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Speciality",
+          "name": "In The Beginning",
+          "bar": "Pride Bar",
+          "abv": "3.8"
+        }
+      ],
+      "id": "a6f16ab483da9847d431a822e6c85e144dc54f30",
+      "name": "Moonshine",
+      "year_founded": "2004"
+    },
+    {
+      "location": "Norwich. Norfolk",
+      "notes": "Norwich. Norfolk est. 2001",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A flavourful meld of roasted notes with hints of nuts, chocolate and caramel.",
+          "id": "273200af76936238d511c8845ba977305121e263",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Mild",
+          "name": "Fusioneer",
+          "bar": "Pride Bar",
+          "abv": "3.6"
+        },
+        {
+          "category": "beer",
+          "status_text": "Some beer remaining",
+          "notes": "Peach tea infused pale ale",
+          "id": "49c891155a256a5a1974bcec477df90b2507e63c",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Speciality",
+          "name": "Peach Tea Pale",
+          "bar": "Pride Bar",
+          "abv": "4.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Some beer remaining",
+          "notes": "This unexpected blend of South American coffee, Madagascan vanilla and lactose sugar makes for a smooth, sweet milkt stout.",
+          "id": "7371e42459f338df6f98675eefd31bc5678dbcf6",
+          "allergens": {
+            "gluten": true,
+            "milk": true
+          },
+          "dispense": "cask",
+          "style": "Stout",
+          "name": "Vanilla Latte",
+          "bar": "Pride Bar",
+          "abv": "4.5"
+        }
+      ],
+      "id": "a91c1dfe80539381caf15228e9b6d163f3268a7c",
+      "name": "Mr Winter's",
+      "year_founded": "2001"
+    },
+    {
+      "location": "Ilkeston, Derbys",
+      "notes": "Ilkeston, Derbys est. 2009",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Pale session beer",
+          "id": "f05e08d9d63a745ce0920ce5bc5be16240067f77",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Big Bertha",
+          "bar": "Pride Bar",
+          "abv": "4.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Multi award-winning strong full bodied mild",
+          "id": "2a46e5c11e0a2ccd0bb22512329c223f2e97bddb",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Mild",
+          "name": "Magnum Mild",
+          "bar": "Pride Bar",
+          "abv": "4.5"
+        }
+      ],
+      "id": "1ecaebc17c517485f0abe45d78a7bc38d58268ad",
+      "name": "Muirhouse",
+      "year_founded": "2009"
+    },
+    {
+      "location": "Oundle, Northants",
+      "notes": "Oundle, Northants est. 2011",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Hazy pale, light in body with distinct peach, mango, pineapple and citrus notes.",
+          "id": "67a7c1f52b122a01ad3f50bffdee520f52e0ff32",
+          "allergens": {},
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "4 Man Bob",
+          "bar": "Pride Bar",
+          "abv": "3.9"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Hazy pale with intense peach, mango, pineapple and fresh citrus flavours brewed with London Fog yeast and Nelson Sauvin, Nectaron and Waimea hops.",
+          "id": "80ab1dfe96aaa6edc054d71cbfd225d05f0527a1",
+          "allergens": {},
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Business Time",
+          "bar": "Pride Bar",
+          "abv": "4.3"
+        }
+      ],
+      "id": "b77fb0e4f8c1ae7d38d10a6c3333722cba42b1ab",
+      "name": "Nene Valley Brewery",
+      "year_founded": "2011"
+    },
+    {
+      "location": "Pentlow, Essex",
+      "notes": "Pentlow, Essex est. 1986",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "An uber-refreshing, deep golden ale with an intriguing union of lemon and ginger.",
+          "id": "4c0e5a0214ecbf4c2d1f3329e4ff15e3de982844",
+          "allergens": {
+            "gluten": true,
+            "sulphites": true
+          },
+          "dispense": "cask",
+          "style": "Speciality",
+          "name": "Lemon Head",
+          "bar": "Pride Bar",
+          "abv": "4.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Spicy coriander, roast malt and fruit flavours give way to a powerfully hoppy finish in this complex, smooth, distinctive Old Growler porter",
+          "id": "4ef5cf514c934c48101843d23a29c68870467280",
+          "allergens": {
+            "gluten": true,
+            "sulphites": true
+          },
+          "dispense": "cask",
+          "style": "Porter",
+          "name": "Umbel Magna",
+          "bar": "Pride Bar",
+          "abv": "5.0"
+        }
+      ],
+      "id": "0d467c11c1f788a43266782aac388b66b0f22551",
+      "name": "Nethergate",
+      "year_founded": "1986"
+    },
+    {
+      "location": "Grantham, Lincs",
+      "notes": "Grantham, Lincs est. 1998",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Dark malts and fruit.",
+          "id": "8587297f07a7c038478e1dbad756ca542f8afe10",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Porter",
+          "name": "Black Squall",
+          "bar": "Pride Bar",
+          "abv": "4.6"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Expect toffee and fruit flavours in this reddish beer with a bitter after taste.",
+          "id": "cc240aa0328747ed4e58ff05e64efd5e2f008ca2",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Decommissioned",
+          "bar": "Pride Bar",
+          "abv": "6.5"
+        }
+      ],
+      "id": "83fdc3407ccf68718bfb9aaddefa7cc0e40529db",
+      "name": "Newby Wyke",
+      "year_founded": "1998"
+    },
+    {
+      "location": "Peterborough, Cambs",
+      "notes": "Peterborough, Cambs est. 1993",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A smooth and sumptous stout brewed with eight different malts and a liberal dash of moreish Oakham hoppiness from plenty of Centennial and Oticana hops",
+          "id": "b421b8dc636da2e647f6f0c1618310dfc0803a27",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Stout",
+          "name": "Bite The Bullet",
+          "bar": "Pride Bar",
+          "abv": "5.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Unfined and hazy, exploding with citrus and tropical hop flavours",
+          "id": "7beb70d13932f751724706ca0aa49479d61ac99d",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "Citra Haze",
+          "bar": "Pride Bar",
+          "abv": "4.6"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A speciality beer with fruit and hops aroma and flavours, leading to a strong, dry and moderately astringent finish.",
+          "id": "40bd001563085fc35165329ea1ff5c5ecbdbbeef",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Wheat",
+          "name": "White Dwarf",
+          "bar": "Pride Bar",
+          "abv": "4.3"
+        }
+      ],
+      "id": "fb644351560d8296fe6da332236b1f8d61b2828a",
+      "name": "Oakham",
+      "year_founded": "1993"
+    },
+    {
+      "location": "Bury St. Edmunds, Suffolk",
+      "notes": "Bury St. Edmunds, Suffolk est. 1999",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "An extremely quaffable black ale with pear drop and apples on the nose with a rich and smooth body.",
+          "id": "b93d60d0874ac06fd4c08bbcd295ed018b680e84",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Porter",
+          "name": "Black Pig",
+          "bar": "Pride Bar",
+          "abv": "4.2"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Well-balanced strong ale with complex hop, fruit, sweet and bitter flavours and a lingering pleasant aftertaste.",
+          "id": "b6692ea5df920cad691c20319a6fffd7a4a766b8",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Gunner's Daughter",
+          "bar": "Pride Bar",
+          "abv": "5.5"
+        }
+      ],
+      "id": "fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b",
+      "name": "Old Cannon",
+      "year_founded": "1999"
+    },
+    {
+      "location": "Harleston, Suffolk",
+      "notes": "Harleston, Suffolk est. 1995",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Oak-aged and blended with madeira.",
+          "id": "a69ce1155579823539ddc68d2ec0fcd61be8da01",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Stout",
+          "name": "Good King Henry V",
+          "bar": "Pride Bar",
+          "abv": "9.8"
+        }
+      ],
+      "id": "15a17abee2bf17c4859db0247500fc078d2a5dd4",
+      "name": "Old Chimneys",
+      "year_founded": "1995"
+    },
+    {
+      "location": "Aldeby, Norfolk",
+      "notes": "Aldeby, Norfolk est. 2008",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Dark and rich with a pleasant chocolate character, dangerously quaffable.",
+          "id": "609bcfbbfa18eac803696364469f1fb8bf9f7e43",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Lager",
+          "name": "Bière Noire",
+          "bar": "Pride Bar",
+          "abv": "5.2"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "This beer's reddish hue and a full-bodied aroma are thanks to Munich and cara malts, balanced with continental Perle hops. Fermented with Bavarian lager yeast.",
+          "id": "bc9feb607c2044ebf202991159474f09ecbc3076",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Speciality",
+          "name": "Red Oktober",
+          "bar": "Pride Bar",
+          "abv": "6.0"
+        }
+      ],
+      "id": "9d8974baddfc0e53300829f37e5fc88b0f5ce61b",
+      "name": "Opa Hay's",
+      "year_founded": "2008"
+    },
+    {
+      "location": "Quoyloo, Orkney",
+      "notes": "Quoyloo, Orkney est. 1988",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Fruity, piney, intense. Light copper with approachable bitterness and a dry finish.",
+          "id": "152585d7319bba90878c171e8300003eba2592cd",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "Cliff Edge",
+          "bar": "Pride Bar",
+          "abv": "4.7"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Fruity, honey, irresistible. Deep gold, slightly dry and delightfully sessionable.",
+          "id": "d3d0d0b39abdc737d678aea7cd5cf2e6a4bf46f2",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "Corncrake",
+          "bar": "Pride Bar",
+          "abv": "4.1"
+        },
+        {
+          "category": "beer",
+          "status_text": "Some beer remaining",
+          "notes": "Imperial strength Dark Island. After a long and slow fermentation at our brewery in Quoyloo, the beer is finished in old oak casks, formerly used to mature fine scotch malt whisky",
+          "id": "dd70d5c0fa86bb980bdef7110cbeb1d898e73496",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Stout",
+          "name": "Dark Island Reserve",
+          "bar": "Pride Bar",
+          "abv": "10.0"
+        }
+      ],
+      "id": "08a35293e09f508494096c1c1b3819edb9df50db",
+      "name": "Orkney",
+      "year_founded": "1988"
+    },
+    {
+      "location": "Ossett, W. Yorks",
+      "notes": "Ossett, W. Yorks est. 1998",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Pale in colour, this traditional, easy drinking Yorkshire Bitter, made from all British ingredients, has a floral, spicy hoppy aroma. Sweet malt and honey flavours on the palate are followed by a moderately bitter finish. ",
+          "id": "c3d777c54bda700d4a95f6ab3bdce9b64a73aa58",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Butterley",
+          "bar": "Brewery Bars",
+          "abv": "3.8"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Hazy cask Kellerbier.",
+          "id": "e06febb5b929954ecc35ca0c5f3cb457072257fb",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Lager",
+          "name": "Force of Nature",
+          "bar": "Brewery Bars",
+          "abv": "5.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A lager style beer with a crisp, dry flavour and citrus fruity aroma.",
+          "id": "827ac818d422f57b93682a8478afa2d4f026513d",
+          "allergens": {},
+          "dispense": "cask",
+          "style": "Lager",
+          "name": "Silver King",
+          "bar": "Brewery Bars",
+          "abv": "4.3"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "From our single hop series, Emperor has flavours of bitter orange with a touch of spice.",
+          "id": "8ab11a05171621c85d2ff42c5a1349bffdae4a5e",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Single Hop - Emperor",
+          "bar": "Brewery Bars",
+          "abv": "4.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A deliciously rich and full-bodied stout, it's smooth, with moderate bitterness. Chocolate flavours dominate the palate, paired wtih aromas of orange and vanilla, brewed from pale, roasted and chocolate malts.",
+          "id": "4b0c1e421e097180f9d358857541110f599f6858",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Stout",
+          "name": "Voodoo",
+          "bar": "Brewery Bars",
+          "abv": "5.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "This very pale, hoppy ale is made from low-colour malt and the combination of Cascade, Columbus and Amarillo hops produce an intensely aromatic and resinous finish.",
+          "id": "2fe5e068a7711895d9650fc36dc55e64f048ecfa",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "White Rat",
+          "bar": "Brewery Bars",
+          "abv": "4.0"
+        }
+      ],
+      "id": "065f8e41a20c940689359644aae39608d126c498",
+      "name": "Ossett",
+      "year_founded": "1998"
+    },
+    {
+      "location": "Reepham, Norfolk",
+      "notes": "Reepham, Norfolk est. 2010",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Refreshing amber table beer, grape-like fruitiness with a light bitter finish.",
+          "id": "097bd3f8f5f1d7bd81e50ad1c369d225e495b854",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Cub",
+          "bar": "Pride Bar",
+          "abv": "2.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Refreshingly clean ginger wheat beer with a distinct fiery kick.",
+          "id": "62859f4918faecdc01889adba16696d6aa1cc68c",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Speciality",
+          "name": "Ginger Panther",
+          "bar": "Pride Bar",
+          "abv": "3.7"
+        }
+      ],
+      "id": "5715aa02de07dc08f6197a5850b92d7640766663",
+      "name": "Panther",
+      "year_founded": "2010"
+    },
+    {
+      "location": "Earith, Cambs",
+      "notes": "Earith, Cambs est. 2014",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A deliciously hoppy wheat beer with a crisp light body, finishing with hints of bananas and tropical fruits.",
+          "id": "874c97fea56e027498980f754f7117131b8eae1a",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Wheat",
+          "name": "Koura",
+          "bar": "Pride Bar",
+          "abv": "5.7"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A very dark and full-bodied ale with a strong hop aroma. Dark fruit flavours soften the heavy and complex malts and a mischievously smooth yet hoppy finish belies its strength.",
+          "id": "4bdb3890c02fd64dcb0fce3bddf0530eb45e2f7e",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Robin Goodfellow",
+          "bar": "Pride Bar",
+          "abv": "5.4"
+        }
+      ],
+      "id": "f6219aea49987dc3046c2e75553782f638a4359d",
+      "name": "Papworth",
+      "year_founded": "2014"
+    },
+    {
+      "location": "Waterbeach",
+      "notes": "Waterbeach est. 2019",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A French daiquiri-inspired sour beer made with pineapples, raspberries, blackberries and lime juice.",
+          "id": "a69701d1db58f0282aba4c4ef5241f487e57ff9b",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keykeg",
+          "style": "Speciality",
+          "name": "C'est Pastoré",
+          "bar": "Brewery Bars",
+          "abv": "6.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Ripple ice cream pastry sour with cherry, amaretto, honeycomb and vanilla.",
+          "id": "bee1bccfe8930353e299eb54fafa57e1c994360a",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keykeg",
+          "style": "Speciality",
+          "name": "Cherry Amaretti Ripple",
+          "bar": "Brewery Bars",
+          "abv": "4.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A fruit crumble pastry sour with apple, plum, maple syrup and vanilla.",
+          "id": "bc6ffb3defc99e5d518477a0336d3e5a54c8fc04",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keykeg",
+          "style": "Speciality",
+          "name": "Double Crumble",
+          "bar": "Brewery Bars",
+          "abv": "7.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A tropical soda inspired sour beer with mango, passion fruit, guava, orange and apricot.",
+          "id": "440e39952ad3dbb3e495dcee1086c3d90c36bc66",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keykeg",
+          "style": "Speciality",
+          "name": "Rio de Pastore",
+          "bar": "Brewery Bars",
+          "abv": "6.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Spritzy, low alcohol lemon and lime sour beer.",
+          "id": "612dc4f0c1993ba33c37a03e0bc6b9b4393459a6",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keykeg",
+          "style": "Speciality",
+          "name": "Spritz",
+          "bar": "Brewery Bars",
+          "abv": "2.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "An unfined zingy, dry and refreshing Berliner Weisse style sour beer with fruit.",
+          "id": "ee65553802b4c3c89ae43fd981b9392ecefd758c",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keykeg",
+          "style": "Wheat",
+          "name": "Waterbeach Weisse",
+          "bar": "Brewery Bars",
+          "abv": "3.8"
+        }
+      ],
+      "id": "45b9f0e0d41f9e4b850512b0afeeb0e313315f43",
+      "name": "Pastore",
+      "year_founded": "2019"
+    },
+    {
+      "location": "Northampton, Northants",
+      "notes": "Northampton, Northants est. 2014",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Another classic Phipps ale from the 1950s, this blended ale was always the perfect marriage of Ratliffe's Stout and IPA with a dash of Gold Star. The hoppiness of Phipps signature ales cuts through the smooth body of a creamy stout.",
+          "id": "7c4f99c688587a57a584223975452cc6d0a37537",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Speciality",
+          "name": "Bison Brown",
+          "bar": "Planet Fletch",
+          "abv": "4.6"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A tasty bitter designed to cut through the leather dust of Northamptonshire's shoe factory workers. Its balanced flavour and refreshing, moreish bitterness will wash away the toil of any day.",
+          "id": "21546b445b0db705c8a22b83c9aa59a625aa77ff",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Cobblers Ale",
+          "bar": "Planet Fletch",
+          "abv": "4.0"
+        }
+      ],
+      "id": "8a0bbde8e5fe9a3423d20c2cd6a56242bc45766e",
+      "name": "Phipps NBC",
+      "year_founded": "2014"
+    },
+    {
+      "location": "Cromer, Norfolk",
+      "notes": "Cromer, Norfolk est. 2012",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A deep, dry, rich black beer, with touches of liquorice and cocoa, hints of tar and roast grain",
+          "id": "9c4143abcf2fc1e947fbc991585ef409c86137b3",
+          "allergens": {},
+          "dispense": "cask",
+          "style": "Stout",
+          "name": "Black Poppy",
+          "bar": "Planet Fletch",
+          "abv": "6.4"
+        }
+      ],
+      "id": "89f549b2a5341a05a7e4afeb364599158a03a47f",
+      "name": "Poppyland",
+      "year_founded": "2012"
+    },
+    {
+      "location": "Tottenham, London",
+      "notes": "Tottenham, London est. 2010",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Big hoppy IPA style beer, packed full of Kiwi hops with hints of honey and nectar and plenty of tropical citrus and floral notes.",
+          "id": "05b41d49a66964fb006cfa8b4c97e0cf8dec46b2",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "Big Chief",
+          "bar": "Planet Fletch",
+          "abv": "5.5"
+        }
+      ],
+      "id": "6052521b7625e31d4ee9cc706732484fcf850877",
+      "name": "Redemption",
+      "year_founded": "2010"
+    },
+    {
+      "location": "Macclesfield, Cheshire",
+      "notes": "Macclesfield, Cheshire est. 2010",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "This Vietnamese Coffee Stout has an assertive roasty bitterness, which gives way to a smooth, rich, dark chocolate and hazelnut finish. Dangerously drinkable",
+          "id": "0a0bb8baa29afd008bd043826dbaca3dfafcd9a8",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Stout",
+          "name": "Breakfast Stout",
+          "bar": "Planet Fletch",
+          "abv": "5.6"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Aromas of mango, grapefruit and papaya give way to a clean bitter finish Maris Otter and cara malt, with Amarillo, Citra and Simcoe hops. ",
+          "id": "ad11ba17580bf8b508c53bb35abb6b96cff8aa1b",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Wreckless",
+          "bar": "Planet Fletch",
+          "abv": "4.8"
+        }
+      ],
+      "id": "aee6e7cba08370f8e346c2a6268372c40be71fb7",
+      "name": "Redwillow",
+      "year_founded": "2010"
+    },
+    {
+      "location": "Great Staughton, Cambs",
+      "notes": "Great Staughton, Cambs est. 2016",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Expect juicy, tropical and stone fruit flavours, with sticky pine and notes of earthy black tea. Reformulated to use American Idaho 7 hops ",
+          "id": "98113983b07a17bc93360ba2590c0300c50108dd",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Lunar Module",
+          "bar": "Planet Fletch",
+          "abv": "3.9"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A herbal, floral aroma and flavour thanks to English Harlequin hops ",
+          "id": "c7410b428bdb0d8b3be050bf7d7622d6677d5fba",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Rapier",
+          "bar": "Planet Fletch",
+          "abv": "3.9"
+        }
+      ],
+      "id": "6e0312072ad7e48b470123802c90755c690b7644",
+      "name": "Rocket Ales",
+      "year_founded": "2016"
+    },
+    {
+      "location": "Clare, Suffolk",
+      "notes": "Clare, Suffolk est. 2018",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A crisp, refreshing cask-conditioned lager, with floral and sweet honey notes, thanks to Aramis and Ultra hops. Brewed with flaked maize and fine pilsner malts.",
+          "id": "50f3b0aab460e5501a732f18a77aae7cda24ffec",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Lager",
+          "name": "Saffron Sun",
+          "bar": "Planet Fletch",
+          "abv": "5.4"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Our blood red saison sour is brewed with pilsner malt, Czech hops and double fermented with fresh cherry juice. We use Belgian saison yeast and wild yeast strains to deliver a refreshing bite with tart, mouthwatering flavours.",
+          "id": "bc39ef71f766b98f62b13ae2c7de3168b8f06dc9",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Speciality",
+          "name": "Vampire",
+          "bar": "Planet Fletch",
+          "abv": "5.5"
+        }
+      ],
+      "id": "260dcc7b5b2c83de295dd43f7fbc75bc39f857b9",
+      "name": "Roughacre",
+      "year_founded": "2018"
+    },
+    {
+      "location": "Turves, Cambs",
+      "notes": "Turves, Cambs est. 2020",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Cashmere and Mosaic hops complement each other in this hazy tropical pale.",
+          "id": "f1d59d7dd64eac9e09b44f537d969f5818888619",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keykeg",
+          "style": "Pale Ale",
+          "name": "Clever Hawks Hide Claws",
+          "bar": "KeyKeg bar",
+          "abv": "4.9"
+        }
+      ],
+      "id": "524b5ea6f72341de1fcb054017ef16a843e681e9",
+      "name": "Secret Project",
+      "year_founded": "2020"
+    },
+    {
+      "location": "Thorndon, Suffolk",
+      "notes": "Thorndon, Suffolk est. 2012",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Amarillo hopped fruity golden ale.",
+          "id": "8bba88a83d3fe7eb81e701ddb0ea029aa27dac0d",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "Hunky Dory",
+          "bar": "Planet Fletch",
+          "abv": "4.1"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A fine example of a traditional and malty best bitter.",
+          "id": "06f3b7d5a51f5cf41514362ec78fa0f7e9ceb36f",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "The Cure",
+          "bar": "Planet Fletch",
+          "abv": "3.6"
+        }
+      ],
+      "id": "60a171842aba075b01813e69a7c065db36cdae6f",
+      "name": "Shortts",
+      "year_founded": "2012"
+    },
+    {
+      "location": "Finchampstead, Berks",
+      "notes": "Finchampstead, Berks est. 2013",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Expect punchy hop aromas and a satisfyingly delicious depth of flavour from this soft pale ale. It's the culmination of much work, experimentation and research into brewing beers at this strength. ",
+          "id": "d07accc5bcf87627878628be8b8441b9d42e666a",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Mesmerist",
+          "bar": "Planet Fletch",
+          "abv": "3.4"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Using Strata hops was just too good an opportunity to miss. We think this soft, hazy beer is the perfect way to show off its layered tropical fruit notes, with hints of bright berries and juicy melon.",
+          "id": "e19b17d5b1419b030b7addbffd4e7d34949811e4",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Suspended in Strata",
+          "bar": "Planet Fletch",
+          "abv": "4.0"
+        }
+      ],
+      "id": "3e9459d66b2bf63a0f4cfddc2b117a444bcd6a95",
+      "name": "Siren",
+      "year_founded": "2013"
+    },
+    {
+      "location": "St. Peter South Elmham, Suffolk",
+      "notes": "St. Peter South Elmham, Suffolk est. 1996",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A rich black velvet colour, coffee and vanilla notes on the nose with a rich creamy chocolate flavour and smooth mouth feel together with a satisfying bittersweet aftertaste. This strong, dark and aromatic cream stout is made from a blend of five local malts with Fuggle, Progress and Challenger hops. ",
+          "id": "7ef9f9048bfe6f725e874fb27c626d03ae66b444",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Stout",
+          "name": "Cream Stout",
+          "bar": "Planet Fletch",
+          "abv": "6.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A light and refreshing golden ale with pleasing citrus aromas and a gentle balanced malt finish.",
+          "id": "95b733200b90891b421d4c5284026089a17e0c38",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "Gold Dust",
+          "bar": "Planet Fletch",
+          "abv": "4.5"
+        }
+      ],
+      "id": "0716d9708d321ffb6a00818614779e779925365c",
+      "name": "St. Peter's",
+      "year_founded": "1996"
+    },
+    {
+      "location": "Bishop's Stortford, Herts",
+      "notes": "Bishop's Stortford, Herts est. 2019",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Pale gold in colour with flavours of soft orangey bubblegum, a hint of tropical hops, light grain, honey and a crack of black pepper.",
+          "id": "27513da5c148e7a133e9cef7e77d09a8d1dddf85",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keg",
+          "style": "Speciality",
+          "name": "Petite Saison",
+          "bar": "KeyKeg bar",
+          "abv": "3.4"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Our signature beer, this tripel has a sweetness on the nose, perfectly balanced with refreshing hints of orange peel and gentle notes of coriander on your palate. It's full-bodied and is our strongest beer.",
+          "id": "e4b0d70dd397fc62c0d371059739bdb32150245f",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keg",
+          "style": "Speciality",
+          "name": "Tripel",
+          "bar": "KeyKeg bar",
+          "abv": "9.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A fusion of coriander, orange peel and the natural sourness of the wheat make this a light, refreshing and crisp beer with a slightly sour finish.",
+          "id": "d98ade57889ce1cdff75d594b93f82bf109fbe5b",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keg",
+          "style": "Wheat",
+          "name": "Wheat",
+          "bar": "KeyKeg bar",
+          "abv": "6.5"
+        }
+      ],
+      "id": "0ebcdc7babc0de9a1d6c7d1c180bfcb8183fa492",
+      "name": "The Belgian Brewer",
+      "year_founded": "2019"
+    },
+    {
+      "location": "Bexhill-on-sea, East Sussex",
+      "notes": "Bexhill-on-sea, East Sussex est. 2014",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Creamy mouthfeel and mellow bitterness - a juicy and hazy all day extra pale ale. All NZ hops - Rakau, Wai-iti, Kohatu and Taiheke bring heaps of Apricot, Peach, Grapefruit and lime.",
+          "id": "fbe9b5bb7381b4c038d2d025b888f92546172cd0",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "NZ Pale",
+          "bar": "Planet Fletch",
+          "abv": "4.8"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "An 8 malt monster with Carared, Red X and Spelt bringing toffee, caramel and biscuit sweetness.  Centennial on the hot side and Mosaic on the cold side accentuate the malt notes with a controlled piney and floral bitterness. Summer time cask beer.",
+          "id": "ebc791d2d73dfeba9eee8b7a9b92bdf1bd52f77e",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Red Ale",
+          "bar": "Planet Fletch",
+          "abv": "3.4"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Our low ABV table ale - big mouthfeel and flavour for such a small beer. An addition of cucumber on the hot side brings a fresh spring flavour with Strata and Motueka adding lemon, lime zest with spice and floral notes. Clean, crisp, refreshing and low abv!",
+          "id": "37da4ba6012637cdf740179660f950d6eeada85a",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keykeg",
+          "style": "Speciality",
+          "name": "Table Beer",
+          "bar": "KeyKeg bar",
+          "abv": "2.5"
+        }
+      ],
+      "id": "ca99ad7049458d90917657a5db89927e651b472b",
+      "name": "The Three Legs",
+      "year_founded": "2014"
+    },
+    {
+      "location": "Little Downham, Cambs",
+      "notes": "Little Downham, Cambs est. 2014",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A New England pale delivering lots of citrus, tangerine and coconut.",
+          "id": "298d36ce7ffa270023a41e22d6dd36bf4e488394",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Citra & Sabro",
+          "bar": "Brewery Bars",
+          "abv": "4.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Chocolate and coconut stout.",
+          "id": "4daeab1269d433045d6f1b41fe98deb11b21c814",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Stout",
+          "name": "Coconut Blues",
+          "bar": "Brewery Bars",
+          "abv": "5.2"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "The latest version of our session IPAs, hopped with Columbus, Mosaic and Citra. Unfined.",
+          "id": "9ecd1503792ad2336b713d41523cd02b33a46640",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "Juice Rocket",
+          "bar": "Brewery Bars",
+          "abv": "4.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Session pale ale with plenty of hop flavour.",
+          "id": "dd1cf4dcecf9a9359eb47f32710359cb072abaa2",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "Lonely Snake",
+          "bar": "Brewery Bars",
+          "abv": "3.4"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Well-rounded, crisp, New Zealand style pilsner. ",
+          "id": "cfe7a825a6f1d983121aed23b0aa3d6b4c62b2d0",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keykeg",
+          "style": "Lager",
+          "name": "Low Down Pilsner",
+          "bar": "Brewery Bars",
+          "abv": "5.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Blackcurrant and raspberry sour.",
+          "id": "951214bcc87a538e8056339b8e907d9734aede7d",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keykeg",
+          "style": "Fruit",
+          "name": "Pucker Up",
+          "bar": "Brewery Bars",
+          "abv": "5.5"
+        }
+      ],
+      "id": "8383da94fbc3893a50deddfd249fa33c22a1d215",
+      "name": "Three Blind Mice",
+      "year_founded": "2014"
+    },
+    {
+      "location": "Sheffield, S Yorks",
+      "notes": "Sheffield, S Yorks est. 2018",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Triple-hopped pale with Sabro, Citra and El Dorado.",
+          "id": "92b04587cf5cb07daddf8b9a8fc95ba6e0a79bc4",
+          "allergens": {},
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Sabitora",
+          "bar": "Planet Fletch",
+          "abv": "4.4"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A fruity little pale ale, it's super pale, super bright and super tasty, with Amarillo, Cascade, Centennial and Citra hops.",
+          "id": "aefe7cb21cb2c610c351dec5dbb3f68f57049114",
+          "allergens": {},
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Zephyr",
+          "bar": "Planet Fletch",
+          "abv": "3.9"
+        }
+      ],
+      "id": "e1f590c5d3b3b4fb1f50aed557d9f8cfdb12b75d",
+      "name": "Triple Point",
+      "year_founded": "2018"
+    },
+    {
+      "location": "Tydd St. Giles, Cambs",
+      "notes": "Tydd St. Giles, Cambs est. 2007",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Refreshing pale session bitter, with a zesty bitterness and a lingering citrus finish.",
+          "id": "6fb84aed32facd1299ee1e77c8fd2b1a6352669e",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Barn Ale",
+          "bar": "Planet Fletch",
+          "abv": "3.9"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Golden premium bitter, full of red fruit/candy citrus and tropical fruit flavours thanks to Superdelic hops from New Zealand.",
+          "id": "5c27251a24a3453a5e0e0f2c4244fe45a0dca587",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Superdelic",
+          "bar": "Planet Fletch",
+          "abv": "4.6"
+        }
+      ],
+      "id": "af3e133428b9e25c55bc59fe534248e6a0c0f17b",
+      "name": "Tydd Steam",
+      "year_founded": "2007"
+    },
+    {
+      "location": "Brighton, E Sussex",
+      "notes": "Brighton, E Sussex est. 2014",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Our flaship hazy pale in cask with limited availbility. Huge citrus punch, tangerine and grapefruit from ample Amarillo and Simcoe.",
+          "id": "5af2271cab53599c8fa97b4d20ec62bdd3c8d680",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Joosy",
+          "bar": "Planet Fletch",
+          "abv": "5.1"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": " A full-bodied pale ale, abundantly laden with new world hops and sticky, ripe Alphonso mangoes.  ",
+          "id": "32dbb5b9f02c0a79b16c5afdae1d13141a6e3e21",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keg",
+          "style": "Fruit",
+          "name": "Mango Pale",
+          "bar": "KeyKeg bar",
+          "abv": "6.0"
+        }
+      ],
+      "id": "21fe1cc45caa371c475d12524326533878f3463c",
+      "name": "Unbarred",
+      "year_founded": "2014"
+    },
+    {
+      "location": "Barry, South Glamorgan",
+      "notes": "Barry, South Glamorgan est. 2005",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "New Zealand style extra pale ale, strong aromas of gooseberry.",
+          "id": "3c619e28fd8bbc59ffa62d8eb1afbfc91cb5694a",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "(South) Islands In The Stream",
+          "bar": "Planet Fletch",
+          "abv": "3.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Barrel-aged porter, new for spring 2024.",
+          "id": "91ce27f5a1c9d8aed4d2bb7d9bc55926ab82490c",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Porter",
+          "name": "I ain't goin' on no airplane!",
+          "bar": "Planet Fletch",
+          "abv": "5.2"
+        }
+      ],
+      "id": "b9add70531519c256186579d20bc7cec509b4bd3",
+      "name": "Vale of Glamorgan",
+      "year_founded": "2005"
+    },
+    {
+      "location": "Colchester, Essex",
+      "notes": "Colchester, Essex est. 2023",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "An intense, hoppy beer with a lemon and lychee aroma.",
+          "id": "592658c4c23039a859004f7ae411e1ecf0dc3377",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "Coggeshall Gold",
+          "bar": "Planet Fletch",
+          "abv": "4.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Chocolate, dark and smooth.",
+          "id": "ef41004fb58f733a3fa6d3c34dea23b9e2c344e9",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Porter",
+          "name": "Parkeston Porter",
+          "bar": "Planet Fletch",
+          "abv": "4.5"
+        }
+      ],
+      "id": "52e39965d37749903ced91c49d41d01e5f292fbb",
+      "name": "Wharf",
+      "year_founded": "2023"
+    },
+    {
+      "location": "Huntingdon, Hunts",
+      "notes": "Huntingdon, Hunts est. 2022",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Expect toasty, malty and floral flavours.",
+          "id": "85fb9fc6ec34636068825b73feb70acdc6eac9ac",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Mild",
+          "name": "Same Again",
+          "bar": "Planet Fletch",
+          "abv": "3.9"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Dry hopped golden ale with hoppy, fruity and floral flowers.",
+          "id": "7cd51b56814e2ffa8db3e1eebe378efec96698e3",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Golden Ale",
+          "name": "Supernova",
+          "bar": "Planet Fletch",
+          "abv": "4.6"
+        }
+      ],
+      "id": "7b5d15db9f3aa7bcb19ec97278d1b41d9e041b75",
+      "name": "Wheatsheaf",
+      "year_founded": "2022"
+    },
+    {
+      "location": "Besthorpe, Norfolk",
+      "notes": "Besthorpe, Norfolk est. 1996",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Elderflower-infused pale ale.",
+          "id": "f2c5d40534a0d222ef972a2dc582828a10349bf9",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Speciality",
+          "name": "Poacher on the Broads",
+          "bar": "Planet Fletch",
+          "abv": "4.4"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Zesty blonde ale infused with lime.",
+          "id": "c7207e721d585630bd966a01f1d18fa975f33a8b",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Sly Wolf",
+          "bar": "Planet Fletch",
+          "abv": "4.4"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Lightly hopped with Fuggle and Golding, this traditional Norfolk mild has a malty aroma with fruity undertones and a long clean finish.",
+          "id": "7c753b72486156bc11e7416305a9c87ada24439e",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Mild",
+          "name": "Wolf in Sheep's Clothing",
+          "bar": "Planet Fletch",
+          "abv": "3.7"
+        }
+      ],
+      "id": "9e6a55b6b4563e652a23be9d623ca5055c356940",
+      "name": "Wolf",
+      "year_founded": "1996"
+    },
+    {
+      "location": "Woodbastwick, Norfolk",
+      "notes": "Woodbastwick, Norfolk est. 1981",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Deep, ruby-red ale with a rich, chocolatey taste and notes of liquorice and treacle.",
+          "id": "f2a3e404275184183287bbb5cf31b46e9d2e3077",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Nog",
+          "bar": "Planet Fletch",
+          "abv": "4.6"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Award-winning, fresh and zesty bitter with crisp floral flavours, a background of sweet malt and a hoppy grapefruit finish.",
+          "id": "e1822db470e60d090affd0956d743cb0e7cdf113",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Wherry",
+          "bar": "Planet Fletch",
+          "abv": "3.8"
+        }
+      ],
+      "id": "b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f",
+      "name": "Woodforde's",
+      "year_founded": "1981"
+    },
+    {
+      "location": "Linton, Cambs",
+      "notes": "Linton, Cambs est. 2018",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "In this clasic, hoppy, balanced session pale, the American hops are doing all the work.",
+          "id": "03d9905b7ce54019b479e2965259115153338d6a",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keykeg",
+          "style": "Pale Ale",
+          "name": "American Pale Ale",
+          "bar": "Brewery Bars",
+          "abv": "4.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Smooth and easy-drinking, this medium light-bodied stout with coffee flavours and malty sweetness is balanced with a delicious roast and subtle toasty finish.",
+          "id": "2d505b8b6dc24e1fd181e06144c3c6724de72861",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keykeg",
+          "style": "Stout",
+          "name": "Coffee Stout",
+          "bar": "Brewery Bars",
+          "abv": "5.6"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Bitter-sweet, malty and crisp, this classic pale ale from the Continent has a noticeable hop character. It's a collision of the modern and traditional in a glass.",
+          "id": "d4eaa4f8d3dc8fbc71c52409d1c051ec8838d52a",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keykeg",
+          "style": "Pale Ale",
+          "name": "Continental",
+          "bar": "Brewery Bars",
+          "abv": "5.0"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A Mexican-style lager. Light-bodied, with a touch of sweetness, subtle crispiness and a light citrus hop character.",
+          "id": "87fb86b09b0a0415d6438cfa68f6f3fb43d7e343",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keykeg",
+          "style": "Lager",
+          "name": "Mexican Lager",
+          "bar": "Brewery Bars",
+          "abv": "4.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "A tart, fruity and refreshing hazy wheat pale, subtly spiced with coriander and orange peel and loaded with juicy raspberry fruitiness.",
+          "id": "8a054aae936919f6853adae990815fb65db948fa",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "keykeg",
+          "style": "Fruit",
+          "name": "Raspberry Wheat Beer",
+          "bar": "Brewery Bars",
+          "abv": "5.5"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "This full-bodied and malty traditional Best has a pronounced bitter finish. Hopped with Challenger and East Kent Golding.",
+          "id": "75f338a6d72868fbeb53ed525ff7f88f35b31b99",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Bitter",
+          "name": "Wylde Sky Best",
+          "bar": "Brewery Bars",
+          "abv": "4.5"
+        }
+      ],
+      "id": "7026d0f189b40a2ab2815aa592f49c2e0997bd3a",
+      "name": "Wylde Sky",
+      "year_founded": "2018"
+    },
+    {
+      "location": "Long Crendon, Bucks",
+      "notes": "Long Crendon, Bucks est. 2011",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Tropical pale.",
+          "id": "2be391dcd13fdca3bcc4c67b994ee287a40442ca",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Pale Ale",
+          "name": "Damselfly",
+          "bar": "Planet Fletch",
+          "abv": "4.6"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Black IPA with Columbus, Summit, Pacific Gem and Chinook hops and nine malts.",
+          "id": "90f7ef249baec6f13399091d9fff30ac546c721b",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "IPA",
+          "name": "Squid Ink",
+          "bar": "Planet Fletch",
+          "abv": "5.5"
+        }
+      ],
+      "id": "dc51d239fbced2ce3562b4cf820eac1e2b2344c7",
+      "name": "XT",
+      "year_founded": "2011"
+    },
+    {
+      "location": "Whittlesey, Cambs",
+      "notes": "Whittlesey, Cambs est. 2013",
+      "products": [
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Classic style wheat beer with banana aroma. Light and refreshing.",
+          "id": "02c92c66efc9a6858e083c6f3e02b07cf3737bb3",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Wheat",
+          "name": "Weiss Bier ",
+          "bar": "Planet Fletch",
+          "abv": "4.7"
+        },
+        {
+          "category": "beer",
+          "status_text": "Plenty left",
+          "notes": "Oatmeal stout with a strong chocolate opening and a cherry finish.",
+          "id": "53c46e0597d45db42ffa67556ab97e44e9b91740",
+          "allergens": {
+            "gluten": true
+          },
+          "dispense": "cask",
+          "style": "Stout",
+          "name": "xxXxx",
+          "bar": "Planet Fletch",
+          "abv": "5.0"
+        }
+      ],
+      "id": "2ce518699373ae57c7868a65c4c16d869de5e99b",
+      "name": "Xtreme Ales",
+      "year_founded": "2013"
+    }
+  ],
+  "timestamp": "Wed May 22 2024 23:39:17 BST"
+}

@@ -1,0 +1,62 @@
+{
+  "producers": [
+    {
+      "location": "Cambridgeshire",
+      "notes": "Cambridgeshire ",
+      "products": [
+        {
+          "category": "apple juice",
+          "status_text": "",
+          "notes": "Medium Sweet, Fruity, Clear.",
+          "id": "8e634f0bfa6c67af276e40e553d18bb7578a7ea4",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Bramley APPLE JUICE APPLE JUICE",
+          "bar": "",
+          "abv": "0.0"
+        },
+        {
+          "category": "apple juice",
+          "status_text": "",
+          "notes": "Sweet, Fruity, Clear.",
+          "id": "e980332daf670a5b9616b5cd5897a0e995390ce0",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Discovery APPLE JUICE APPLE JUICE",
+          "bar": "",
+          "abv": ""
+        },
+        {
+          "category": "apple juice",
+          "status_text": "",
+          "notes": "Very Sweet, Fruity, Clear.",
+          "id": "27c26eb6341c677136d90e79528c5b1c9206e86b",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Red Pippin APPLE JUICE APPLE JUICE",
+          "bar": "",
+          "abv": ""
+        },
+        {
+          "category": "apple juice",
+          "status_text": "",
+          "notes": "Sweet, Fruity, Clear.",
+          "id": "7c6385e3e82230facd2b5e859a5529620031034e",
+          "allergens": {},
+          "dispense": "bottle",
+          "style": "",
+          "name": "Royal Gala APPLE JUICE APPLE JUICE",
+          "bar": "",
+          "abv": "0.0"
+        }
+      ],
+      "id": "75988f5ac0575a8d3636291a136cf92664152ed3",
+      "name": "Cam Valley",
+      "year_founded": ""
+    }
+  ],
+  "timestamp": "Sat May 25 2024 12:43:48 BST"
+}

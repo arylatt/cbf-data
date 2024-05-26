@@ -1,0 +1,1088 @@
+{
+  "producers": [
+    {
+      "location": "USA",
+      "notes": "USA ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "DIPA Hopped with Galaxy, Simcoe, Citra and Mosaic",
+          "id": "25d552c0f0882b2278b61916018104556b558c35",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Stereo Sets: The Purple Tape",
+          "bar": "",
+          "abv": "8.0"
+        }
+      ],
+      "id": "751560cda02be80ddb74d35922cb88e4537bc7e9",
+      "name": "3 Sons",
+      "year_founded": ""
+    },
+    {
+      "location": "Belgium",
+      "notes": "Belgium ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Muscaris grape mixed fermentation saison",
+          "id": "554599e2711b292443e312eff363f02c671ae9e1",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Morpheus Druif",
+          "bar": "",
+          "abv": "5.5"
+        }
+      ],
+      "id": "efa260adfcac648aa5df57fc33520b5e0a3fb0c3",
+      "name": "Alvinne",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Helles lager",
+          "id": "e3055a3ee89da8068a3025cab7981a543ddcb6e9",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Hell",
+          "bar": "",
+          "abv": "4.8"
+        }
+      ],
+      "id": "1b0a69d74c5ab68f9e3505f103f40618a51e5987",
+      "name": "Andechs",
+      "year_founded": ""
+    },
+    {
+      "location": "USA",
+      "notes": "USA ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Bright and aromatic with a dry finish. Hazy IPA",
+          "id": "207c51e89174be5a2bbe5d0effddb8b2e0994ff0",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Nelson & Associates",
+          "bar": "",
+          "abv": "7.0"
+        }
+      ],
+      "id": "3dddca0f066cc2e65e67a784c3c1326a4a8c39e4",
+      "name": "Barebottle Brewing Co.",
+      "year_founded": ""
+    },
+    {
+      "location": "USA",
+      "notes": "USA ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Brewed in collab with San Roque from Guatemala",
+          "id": "5789e5afc2b6af1b9a5630a4a78fc3c38663efd0",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Cryo Cat",
+          "bar": "",
+          "abv": "7.0"
+        }
+      ],
+      "id": "f5e707278c16421e72717fe65f23b9394e92fed5",
+      "name": "Barebottle Brewing Co. x San Roque",
+      "year_founded": ""
+    },
+    {
+      "location": "Romania",
+      "notes": "Romania ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Heavily hopped IPA with Citra & Pink Boots Blend",
+          "id": "d8fedc84870d5e09b877fb50cd391ca65f242d51",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Claim to Fame",
+          "bar": "",
+          "abv": "6.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Triple IPA hopped with Enigma and Kohia Nelson",
+          "id": "de6e67e526f1f358a537766dfc9d9777c16ca900",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Fistful of Green",
+          "bar": "",
+          "abv": "10.0"
+        }
+      ],
+      "id": "cd45b5b7049c852536ee19af1309a5aac70c61b3",
+      "name": "Bereta",
+      "year_founded": ""
+    },
+    {
+      "location": "Sweden",
+      "notes": "Sweden ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Real mango and American hopped session IPA",
+          "id": "107f0617e7d68f07682c0efde004de2d3ff69cbd",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Mangofeber IPA",
+          "bar": "",
+          "abv": "4.2"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "A hazy Pale ale with hints of pine and orange zest",
+          "id": "0d56fac069fa8076b41da01721dd000b6b5f6be7",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Swift Haze",
+          "bar": "",
+          "abv": "4.3"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Berliner weisse with raspberries, gooseberries and rhubarb",
+          "id": "c3f09cbe208600600ce1250662cd33b839c79464",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Tajes",
+          "bar": "",
+          "abv": "5.0"
+        }
+      ],
+      "id": "38740b4e138067226f9545bf27346eda810207ea",
+      "name": "Brewski",
+      "year_founded": ""
+    },
+    {
+      "location": "Sweden",
+      "notes": "Sweden ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Dessert stout with lactose, chocolate and strawberries",
+          "id": "f2b169ff11bfff3cb19fb14dcdd3be3cb2fba96f",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "The Lift Off Game",
+          "bar": "",
+          "abv": "12.5"
+        }
+      ],
+      "id": "857b78b207b9552985d741d5776f3e4fa5161622",
+      "name": "Brewski x Bottle Logic Brewing",
+      "year_founded": ""
+    },
+    {
+      "location": "Czechia ",
+      "notes": "Czechia  ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Black lager",
+          "id": "f71d310459a4d77c9dbf3fd4d3328bbaf352c946",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Tmavý ležák",
+          "bar": "",
+          "abv": "4.7"
+        }
+      ],
+      "id": "8dfb87a847ff8c3c157b3f64d7c77081fdb82dc9",
+      "name": "Budějovický Budvar",
+      "year_founded": ""
+    },
+    {
+      "location": "Canada",
+      "notes": "Canada ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "WCIPA with Simcoe, Centennial, Chinook and Vic Secret",
+          "id": "a54f594e0c535e1fcabf7265e0085ca1d1f973ea",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Peak to Peak",
+          "bar": "",
+          "abv": "7.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "IPA hopped with Australian Galaxy and Mosaic",
+          "id": "93ec2c30fe6610236a9248f551881974ab0b2102",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Ransack The Universe",
+          "bar": "",
+          "abv": "6.8"
+        }
+      ],
+      "id": "c5aa7a64b76b97100a08380d254f46559e72c05d",
+      "name": "Collective Arts",
+      "year_founded": ""
+    },
+    {
+      "location": "USA",
+      "notes": "USA ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Coffee, toasted coconut and cocoa nitro stout",
+          "id": "b98039782f4f68df506cd143b5015738ff3af2c1",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Marvolo",
+          "bar": "",
+          "abv": "8.7"
+        }
+      ],
+      "id": "9c700f06a78a028f49144bd1c4efcf6f7a830f8f",
+      "name": "Commonwealth",
+      "year_founded": ""
+    },
+    {
+      "location": "Netherlands",
+      "notes": "Netherlands ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "DNEIPA hopped with El Dorado and Cryo Pop",
+          "id": "0289cf86719fa5d95a5dd7c1feed7e26bad36a41",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Barbarian Fishing v18",
+          "bar": "",
+          "abv": "8.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "NEIPA hopped with Amarillo, Azacca and Citra Cryo",
+          "id": "331501143e2e311d2d4ae5750a68acc145c247cc",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Warmouth V11",
+          "bar": "",
+          "abv": "6.2"
+        }
+      ],
+      "id": "564fd4f695747a12f20fb2f28e3c8198ad3ba8de",
+      "name": "De Kromme Haring",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Dry-hopped unfiltered lager",
+          "id": "2c3896c9acb6626b9aeab180a9b314fa9314309b",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "24/7",
+          "bar": "",
+          "abv": "5.2"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Helles lager",
+          "id": "5a8c21f3d17c68dcb3afd0ae0bef61e53e21030f",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Helles",
+          "bar": "",
+          "abv": "4.8"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Japanese Yuzu fruited helles",
+          "id": "7bfe10a36fbe3a60248da3152db6da71893df91d",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Japanese Yuzu Lager",
+          "bar": "",
+          "abv": "4.9"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Pilsner",
+          "id": "40998ac2de05621a271e73ebac2f0417a0811a65",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Pils",
+          "bar": "",
+          "abv": "4.8"
+        }
+      ],
+      "id": "67468cb18559db0000a450d7dafd7c4f18e82e74",
+      "name": "FrauGruber Brewing",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Unfiltered helles lager",
+          "id": "e75f4ed8f8a847bc7bba1285732fe3dee8b5a371",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Berliner Landbier",
+          "bar": "",
+          "abv": "5.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Mexican-style light lager",
+          "id": "77844a47b64b355d9fee1bb9dbab39db0db615f7",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Chela",
+          "bar": "",
+          "abv": "4.2"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "DDH IPA dry-hopped with Mosaic & HBC 630",
+          "id": "2fce964ceca89cd0f7b430d1fc05adce6b22e7ad",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Fat Cats in Top Hats",
+          "bar": "",
+          "abv": "6.8"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Citra and Mosaic dry hopped lager",
+          "id": "4c21e7def77c1751f5b7ae510ae8114b2cbe1438",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Raving Pils",
+          "bar": "",
+          "abv": "5.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "DIPA Dry-hopped with Citra, Motueka & Loral",
+          "id": "6560cf6edbf63fba579319f6acf3aefba5245a6c",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Seascape",
+          "bar": "",
+          "abv": "8.0"
+        }
+      ],
+      "id": "5f53beb5579ddb5c9fe382cc21e9c7c9c2e0b47d",
+      "name": "Fuerst Wiacek",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Dark Lager",
+          "id": "ef17086afc3f7f01204b7a850004bc0fc2030392",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Dunkel",
+          "bar": "",
+          "abv": "5.5"
+        }
+      ],
+      "id": "e77f8d53c6dfa1c3f308adcfa8a42cd169cb8a8b",
+      "name": "Hofbräu",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Weissbier",
+          "id": "44b376801215a5891dd25fcd413bb11e6347076b",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Helles Hefe-Weißbier",
+          "bar": "",
+          "abv": "5.0"
+        }
+      ],
+      "id": "93e097e319c2db13edf06f45c4dff4f741394c0d",
+      "name": "Karg",
+      "year_founded": ""
+    },
+    {
+      "location": "Netherlands",
+      "notes": "Netherlands ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "What it says. Lots of caramel and chocolate. You know you want some...",
+          "id": "a2ed9cbd8f46c6afc4632b7b752fdcbed42104bf",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Caramel Fudge Stout",
+          "bar": "",
+          "abv": "11.0"
+        }
+      ],
+      "id": "f881b44b0c8b0ace5bc97cf6066fda86c2af6e18",
+      "name": "Kees",
+      "year_founded": ""
+    },
+    {
+      "location": "Netherlands",
+      "notes": "Netherlands ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Quad aged in Buffalo Trace barrels for 16 months",
+          "id": "68b025630c4380576a3d013635b3740d84a4c077",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Barrel Project Quad 2024",
+          "bar": "",
+          "abv": "9.9"
+        }
+      ],
+      "id": "a6edb94df660284c11d892e2ca8ad7cf90fdddb8",
+      "name": "Kees x Pamona Island",
+      "year_founded": ""
+    },
+    {
+      "location": "Netherlands",
+      "notes": "Netherlands ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Massive chocolate vanilla imperial dessert stout",
+          "id": "2eed3811d22adbfee437826e47122d4524f86955",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "It's a Sin",
+          "bar": "",
+          "abv": "13.8"
+        }
+      ],
+      "id": "eb24edddcd8d56716f4b70c36d6bd4efe1be3b19",
+      "name": "Kees x Sori",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Weissbier",
+          "id": "2ada7d0c69f5fd514899c88e4b36fcfc56996717",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Weissbier Hell",
+          "bar": "",
+          "abv": "5.5"
+        }
+      ],
+      "id": "e61198212bd702982b9b2485d919fd56af75d09f",
+      "name": "König Ludwig",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Weissbier",
+          "id": "a91d47ae4608e2753faac84be248c3d1f9b50c04",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Weizen",
+          "bar": "",
+          "abv": "5.2"
+        }
+      ],
+      "id": "ebbaf78916f4bc89bd3dc8662e5b63d40e8d2f8d",
+      "name": "Meckatzer",
+      "year_founded": ""
+    },
+    {
+      "location": "Norway",
+      "notes": "Norway ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "IPA hopped with Cashmere, Centennial and Cascade.",
+          "id": "ec436fd62343afd5315a8c2d17f90c93029a267d",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "The Karoo",
+          "bar": "",
+          "abv": "6.0"
+        }
+      ],
+      "id": "9e4e22b31fa417659c318775f9290a74c1d0dd3e",
+      "name": "Monkey Brew",
+      "year_founded": ""
+    },
+    {
+      "location": "Sweden",
+      "notes": "Sweden ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Vanilla imperial stout aged in cognac barrels",
+          "id": "6217d32748ef3d5f5c0b24643c94dc039ea612ce",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Barrel Series 019",
+          "bar": "",
+          "abv": "11.5"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Brunch imperial stout",
+          "id": "70bc993e97958abc9f223c94e94742065d15efd8",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Delay Black Coffee & Waffles Imperial Stout",
+          "bar": "",
+          "abv": "10.8"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "An imperial vanilla fudge stout with bourbon-soaked Ugandan and Madagascan vanilla.",
+          "id": "3388fac9f1d05cb2ef93d8dd5f8dc2409642ea79",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Limited Connectivity",
+          "bar": "",
+          "abv": "11.3"
+        }
+      ],
+      "id": "4ae4057d216cdcf18088e701b01f5b1f150c8c1b",
+      "name": "Nerd",
+      "year_founded": ""
+    },
+    {
+      "location": "Poland",
+      "notes": "Poland ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Apple, vanilla and cinnamon barleywine aged in calvados barrels",
+          "id": "ac1357e64340188eefad6f84da5db5926851400a",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Torch",
+          "bar": "",
+          "abv": "14.0"
+        }
+      ],
+      "id": "9753e686f0a75399ca60ae03442353b4b7862ee2",
+      "name": "PINTA Barrel",
+      "year_founded": ""
+    },
+    {
+      "location": "USA",
+      "notes": "USA ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "TNEIPA with wildflower honey, Cashmere, Citra and Simcoe",
+          "id": "68f605e0f054f6849c3bafe9c44ad7170974e33f",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Chainsaw",
+          "bar": "",
+          "abv": "10.0"
+        }
+      ],
+      "id": "e8498bf932ff6d9bff654a59cde0962537cdf696",
+      "name": "Root + Branch",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Weissbier",
+          "id": "5c259d6a80e115952cbaef5c551749ea24226102",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Original TAP07",
+          "bar": "",
+          "abv": "5.4"
+        }
+      ],
+      "id": "baf253b20f891347a7f8122930309b27db1e3835",
+      "name": "Schneider",
+      "year_founded": ""
+    },
+    {
+      "location": "Poland",
+      "notes": "Poland ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Triple collaboration, Stu Mostów, 18th Street US and Seven Island from Greece. Sharp citrus and sweet mango",
+          "id": "fe5edccf29ac075a16dea0c929b6972d957b5577",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "ART+69 Modern Silly Sour",
+          "bar": "",
+          "abv": "7.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "DIPA made with Australian sauvignon blanc grapes",
+          "id": "b9eb560f49b2dabf944b255fb12fe6251dd3c4d8",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "ART+71 Thiolized DIPA",
+          "bar": "",
+          "abv": "8.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Wheat NEIPA hopped with Motueka, HBC 586 and Mosaic",
+          "id": "329a8ab6ca2afa0e143ef6b06c2167a10f1700a7",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "ART+72 Wheat NEIPA",
+          "bar": "",
+          "abv": "6.2"
+        }
+      ],
+      "id": "62928c5d98429dcdd38d5f9ef2227c74fadf11e7",
+      "name": "Stu Mostów",
+      "year_founded": ""
+    },
+    {
+      "location": "USA",
+      "notes": "USA ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Sparkling session mead with orange juice",
+          "id": "73defb6d7d87635d883d9f26aea7d4267edfb78a",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "BeeMosa",
+          "bar": "",
+          "abv": "6.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Sparkling mango session mead",
+          "id": "f9cedab81687b354059db9d97ef85779419d457d",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Crystal Sail",
+          "bar": "",
+          "abv": "6.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Sparkling prickly pear session mead",
+          "id": "8df5ac65b0e28b6574c53ccfb828ebd2c6da54db",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Dune Bloom",
+          "bar": "",
+          "abv": "6.0"
+        }
+      ],
+      "id": "d519432f7cf00a20e6071fbb8c1baf60af1655d7",
+      "name": "Superstition",
+      "year_founded": ""
+    },
+    {
+      "location": "Germany",
+      "notes": "Germany ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Helles",
+          "id": "3d8a213a60ffb4da53a35db326639f59de089771",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Hell",
+          "bar": "",
+          "abv": "4.8"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Pils",
+          "id": "9187631072ea043866d472789bf779c8e916521f",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Pils",
+          "bar": "",
+          "abv": "5.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Export Helles",
+          "id": "f1c6cfb5c5a959aee655e4f9250ca8303668074a",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Spezial",
+          "bar": "",
+          "abv": "5.6"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Dark strong lager",
+          "id": "d1b18ec0876a07270f8de677cf69536fee5a3bbe",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "St. Quiniris Bock",
+          "bar": "",
+          "abv": "7.0"
+        }
+      ],
+      "id": "7ee08d3afb3a2ef0b04a9ebd0698bb2fffddc587",
+      "name": "Tegernsee",
+      "year_founded": ""
+    },
+    {
+      "location": "Canada",
+      "notes": "Canada ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Double chocolate milk stout with Madagascar vanilla",
+          "id": "09dcea5e12abd3fa7763aecdbbd41a4af42c51b5",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Dead Don't Die Vanilla",
+          "bar": "",
+          "abv": "8.5"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "IPA with Cascade, Centennial and Comet",
+          "id": "addff698cd3efb467bcd643d35872a5a311854ad",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Love lies Bleeding (deep red)",
+          "bar": "",
+          "abv": "6.5"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "NEIPA hopped with Galaxy, Citra and Simcoe",
+          "id": "637d008c00c19589b8aac424dfb5fd4ba71eb750",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "The Burden",
+          "bar": "",
+          "abv": "6.5"
+        }
+      ],
+      "id": "72fad23df48f54abdf674cd2c3b08b936ae42c35",
+      "name": "Third Moon",
+      "year_founded": ""
+    },
+    {
+      "location": "Belgium",
+      "notes": "Belgium ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Blackberry and rhubarb lambic",
+          "id": "b05de890cef507f5e70974e2aba0f397669d1f03",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Mûre-Rhubarbe",
+          "bar": "",
+          "abv": "5.4"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Purple plum lambic",
+          "id": "9787b65cff7534d883524239c9947919eefeebb8",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Quetsche Tilquin",
+          "bar": "",
+          "abv": "6.4"
+        }
+      ],
+      "id": "7b6a3377d75708ef9db6d50d2821cf30bab3cb82",
+      "name": "Tilquin",
+      "year_founded": ""
+    },
+    {
+      "location": "Canada",
+      "notes": "Canada ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Blood orange bretted sour",
+          "id": "19876c694d55c39e28724b656a4318e30304c22d",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Robert",
+          "bar": "",
+          "abv": "5.8"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Opuntia prickly pear cactus fruit sour",
+          "id": "c2e3bc8382db78729b7c9db99e5bcc4a331124be",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "That night at La Choza",
+          "bar": "",
+          "abv": "6.9"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Sicilian lemon fruited sour",
+          "id": "2ce33d1d9a290f36b546a6795e3d0274fc7f9196",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "When life hands you barrels",
+          "bar": "",
+          "abv": "6.6"
+        }
+      ],
+      "id": "d4f9ea86999948c4060588e61484e8f36a06d7a2",
+      "name": "Trail & Ale",
+      "year_founded": ""
+    },
+    {
+      "location": "USA",
+      "notes": "USA ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "NEIPA hopped with Citra, Cryo Pop and Centennial",
+          "id": "85545913453ce063ae701b24855eb3bf3693c9b1",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Seaside",
+          "bar": "",
+          "abv": "7.1"
+        }
+      ],
+      "id": "36f2cb47ad5c319adba69976bf851d12261e6f9a",
+      "name": "Uncommon Path",
+      "year_founded": ""
+    },
+    {
+      "location": "Canada",
+      "notes": "Canada ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "IPA hopped with Nelson Sauvin, Motueka, Citra abd Mosaic",
+          "id": "b885d0bb6e2f794b956f69ac7662307e7970288e",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Dreamy",
+          "bar": "",
+          "abv": "6.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "RyePA hopped with Nelson Sauvin, NZ Cascade and Waimea",
+          "id": "5ce5c839b0dc3e33f2ccb95c54dc172f9c606c1f",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "Lazerland",
+          "bar": "",
+          "abv": "5.0"
+        }
+      ],
+      "id": "bcd707d9626e012278a090aa04e1e48935b81699",
+      "name": "Willibald",
+      "year_founded": ""
+    },
+    {
+      "location": "Latvia",
+      "notes": "Latvia ",
+      "products": [
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Pineapple, mango, passion fruit and vanilla smoothie sour",
+          "id": "94ef8efb29179730f54bf314f493099b18af217c",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "6 Year Anniversary Smoothie Sour",
+          "bar": "",
+          "abv": "5.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Triple dry-hopped DIPA",
+          "id": "2368e3eee76d05da344b8369768b3565b431e436",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "TDH Riwaka X Nelson X Nectaron DIPA",
+          "bar": "",
+          "abv": "8.0"
+        },
+        {
+          "category": "foreign beer",
+          "status_text": "Arrived",
+          "notes": "Triple dry-hopped hazy IPA",
+          "id": "b511945dd591487f2e27975d2e11c20575fc2fe0",
+          "allergens": {},
+          "dispense": "keg",
+          "style": "",
+          "name": "TDH Vic Secret X Belma X Mosaic Cryo IPA",
+          "bar": "",
+          "abv": "6.5"
+        }
+      ],
+      "id": "e9f8027c6d1ac0f16703285b89215342657016a9",
+      "name": "Ārpus",
+      "year_founded": ""
+    }
+  ],
+  "timestamp": "Fri May 24 2024 23:19:42 BST"
+}
